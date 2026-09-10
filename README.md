@@ -23,9 +23,33 @@ A curated list of papers and resources for the survey **Interactive Visual Embod
 
 ## Surveys and Background
 
-- **[The interaction design of 3D virtual humans: A survey](https://doi.org/10.1016/j.cosrev.2024.100653)** — *Computer Science Review 2024*
+### Talking-Head and Human Synthesis
 
-- **[A survey on generative nonverbal facial behavior for highly realistic embodied agents](https://doi.org/10.1007/s11370-025-00674-2)** — *Intelligent Service Robotics 2026*
+- **[What Comprises a Good Talking-Head Video Generation?: A Survey and Benchmark](https://arxiv.org/abs/2005.03201)** — *arXiv 2020*
+
+- **[Deep Person Generation: A Survey from the Perspective of Face, Pose and Cloth Synthesis](https://arxiv.org/abs/2109.02081)** — *arXiv 2021*
+
+- **[From Pixels to Portraits: A Comprehensive Survey of Talking Head Generation Techniques and Applications](https://arxiv.org/abs/2308.16041)** — *arXiv 2023*
+
+- **[Deepfake Generation and Detection: A Benchmark and Survey](https://arxiv.org/abs/2403.17881)** — *arXiv 2024*
+
+- **[Advancing Talking Head Generation: A Comprehensive Survey of Multi-Modal Methodologies, Datasets, Evaluation Metrics, and Loss Functions](https://arxiv.org/abs/2507.02900)** — *arXiv 2025*
+
+### Digital Humans, Avatars, and Character Animation
+
+- **[A Survey on Applications of Digital Human Avatars toward Virtual Co-presence](https://arxiv.org/abs/2201.04168)** — *arXiv 2022*
+
+- **[Human Motion Generation: A Survey](https://arxiv.org/abs/2307.10894)** — *arXiv 2023*
+
+- **[The Interaction Design of 3D Virtual Humans: A Survey](https://doi.org/10.1016/j.cosrev.2024.100653)** — *Computer Science Review 2024*
+
+- **[Generative AI for Character Animation: A Comprehensive Survey of Techniques, Applications, and Future Directions](https://arxiv.org/abs/2504.19056)** — *arXiv 2025*
+
+### Nonverbal Facial Behavior and Co-Speech Gestures
+
+- **[A Comprehensive Review of Data-Driven Co-Speech Gesture Generation](https://arxiv.org/abs/2301.05339)** — *Computer Graphics Forum 2023*
+
+- **[A Survey on Generative Nonverbal Facial Behavior for Highly Realistic Embodied Agents](https://doi.org/10.1007/s11370-025-00674-2)** — *Intelligent Service Robotics 2026*
 
 ## Speaking Behavior Generation
 
