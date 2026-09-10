@@ -25,29 +25,29 @@ A curated list of papers and resources for the survey **Interactive Visual Embod
 
 ### Talking-Head and Human Synthesis
 
-- **[What Comprises a Good Talking-Head Video Generation?: A Survey and Benchmark](https://arxiv.org/abs/2005.03201)** — *arXiv 2020*
+- **[Talking Human Face Generation: A Survey](https://doi.org/10.1016/j.eswa.2023.119678)** — *Expert Systems with Applications 2023*
 
-- **[Deep Person Generation: A Survey from the Perspective of Face, Pose and Cloth Synthesis](https://arxiv.org/abs/2109.02081)** — *arXiv 2021*
+- **[Human–Computer Interaction System: A Survey of Talking-Head Generation](https://doi.org/10.3390/electronics12010218)** — *Electronics 2023*
 
-- **[From Pixels to Portraits: A Comprehensive Survey of Talking Head Generation Techniques and Applications](https://arxiv.org/abs/2308.16041)** — *arXiv 2023*
+- **[Deep Person Generation: A Survey from the Perspective of Face, Pose, and Cloth Synthesis](https://doi.org/10.1145/3575656)** — *ACM Computing Surveys 2023*
 
-- **[Deepfake Generation and Detection: A Benchmark and Survey](https://arxiv.org/abs/2403.17881)** — *arXiv 2024*
+- **[A Survey of Talking Head Synthesis Techniques: Portrait Generation, Driving Mechanisms, and Editing](https://doi.org/10.1145/3785656)** — *ACM Computing Surveys 2026*
 
-- **[Advancing Talking Head Generation: A Comprehensive Survey of Multi-Modal Methodologies, Datasets, Evaluation Metrics, and Loss Functions](https://arxiv.org/abs/2507.02900)** — *arXiv 2025*
+- **[Deepfake Generation and Detection: A Benchmark and Survey](https://doi.org/10.1145/3801962)** — *ACM Computing Surveys 2026*
 
-### Digital Humans, Avatars, and Character Animation
+### Digital Humans, Avatars, and Human Motion
 
-- **[A Survey on Applications of Digital Human Avatars toward Virtual Co-presence](https://arxiv.org/abs/2201.04168)** — *arXiv 2022*
+- **[Virtual Human: A Comprehensive Survey on Academic and Applications](https://doi.org/10.1109/ACCESS.2023.3329573)** — *IEEE Access 2023*
 
-- **[Human Motion Generation: A Survey](https://arxiv.org/abs/2307.10894)** — *arXiv 2023*
+- **[Human Motion Generation: A Survey](https://doi.org/10.1109/TPAMI.2023.3330935)** — *IEEE TPAMI 2024*
 
 - **[The Interaction Design of 3D Virtual Humans: A Survey](https://doi.org/10.1016/j.cosrev.2024.100653)** — *Computer Science Review 2024*
 
-- **[Generative AI for Character Animation: A Comprehensive Survey of Techniques, Applications, and Future Directions](https://arxiv.org/abs/2504.19056)** — *arXiv 2025*
+### Nonverbal Behavior and Embodied Agents
 
-### Nonverbal Facial Behavior and Co-Speech Gestures
+- **[A Comprehensive Review of Data-Driven Co-Speech Gesture Generation](https://doi.org/10.1111/cgf.14776)** — *Computer Graphics Forum 2023*
 
-- **[A Comprehensive Review of Data-Driven Co-Speech Gesture Generation](https://arxiv.org/abs/2301.05339)** — *Computer Graphics Forum 2023*
+- **[Embodied Conversational Agents in Extended Reality: A Systematic Review](https://doi.org/10.1109/ACCESS.2025.3566698)** — *IEEE Access 2025*
 
 - **[A Survey on Generative Nonverbal Facial Behavior for Highly Realistic Embodied Agents](https://doi.org/10.1007/s11370-025-00674-2)** — *Intelligent Service Robotics 2026*
 
