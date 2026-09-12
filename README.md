@@ -17,7 +17,6 @@ A curated list of papers and resources for the survey **Interactive Visual Embod
 - [Multimodal Perception](#multimodal-perception)
   - [Speech and Text Signals](#speech-and-text-signals)
   - [Visual Signals](#visual-signals)
-  - [Conversational Context](#conversational-context)
 - [Understanding and Behavior Planning](#understanding-and-behavior-planning)
 - [Datasets and Benchmarks](#datasets-and-benchmarks)
 
@@ -205,13 +204,69 @@ A curated list of papers and resources for the survey **Interactive Visual Embod
 
 - **[LoCoNet: Long-Short Context Network for Active Speaker Detection](https://doi.org/10.1109/CVPR52733.2024.01747)** — *CVPR 2024*
 
-### Conversational Context
-
-<!-- Papers to be added. -->
-
 ## Understanding and Behavior Planning
 
-<!-- Papers to be added. -->
+### Dialogue and Context Understanding
+
+- **SUMBT: Slot-Utterance Matching for Universal and Scalable Belief Tracking**  
+  Hwaran Lee, Jinsik Lee, and Tae-Yoon Kim. ACL 2019.  
+  [[Paper](https://aclanthology.org/P19-1546/)] [[Code](https://github.com/SKTBrain/SUMBT)]
+
+- **TRADE: Transferable Multi-Domain State Generator for Task-Oriented Dialogue Systems**  
+  Chien-Sheng Wu et al. ACL 2019.  
+  [[Paper](https://aclanthology.org/P19-1078/)] [[Code](https://github.com/jasonwu0731/trade)]
+
+- **A Simple Language Model for Task-Oriented Dialogue (SimpleTOD)**  
+  Ehsan Hosseini-Asl et al. NeurIPS 2020.  
+  [[Paper](https://arxiv.org/abs/2005.00796)] [[Code](https://github.com/salesforce/simpletod)]
+
+- **Description-Driven Dialogue State Tracking (D3ST)**  
+  Jeffrey Zhao et al. SIGDIAL 2022.  
+  [[Paper](https://aclanthology.org/2022.sigdial-1.22/)] [[Code](https://github.com/google-research/task-oriented-dialogue/tree/master/state_tracking/d3st)]
+
+- **GSN: A Graph-Structured Network for Multi-Party Dialogues**  
+  Wenpeng Hu et al. IJCAI 2019.  
+  [[Paper](https://arxiv.org/abs/1905.13637)]
+
+- **MPC-BERT: A Pre-Trained Language Model for Multi-Party Conversation Understanding**  
+  Jia-Chen Gu et al. ACL-IJCNLP 2021.  
+  [[Paper](https://aclanthology.org/2021.acl-long.285/)] [[Code](https://github.com/JasonForJoy/MPC-BERT)]
+
+- **GIFT: Graph-Induced Fine-Tuning for Multi-Party Conversation Understanding**  
+  Jia-Chen Gu et al. ACL 2023.  
+  [[Paper](https://aclanthology.org/2023.acl-long.651/)] [[Code](https://github.com/JasonForJoy/MPC-BERT)]
+
+- **Friends-MMC: A Dataset for Multi-modal Multi-party Conversation Understanding**  
+  Yueqian Wang et al. AAAI 2025.  
+  [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/35078)] [[Code](https://github.com/yellow-binary-tree/Friends-MMC)]
+
+- **Beyond Goldfish Memory: Long-Term Open-Domain Conversation**  
+  Jing Xu, Arthur Szlam, and Jason Weston. ACL 2022.  
+  [[Paper](https://aclanthology.org/2022.acl-long.356/)] [[Project](https://parl.ai/projects/msc/)]
+
+- **Generative Agents: Interactive Simulacra of Human Behavior**  
+  Joon Sung Park et al. UIST 2023.  
+  [[Paper](https://doi.org/10.1145/3586183.3606763)] [[Code](https://github.com/joonspk-research/generative_agents)]
+
+- **MemoChat: Tuning LLMs to Use Memos for Consistent Long-Range Open-Domain Conversation**  
+  Junru Lu et al. arXiv 2023.  
+  [[Paper](https://arxiv.org/abs/2308.08239)] [[Code](https://github.com/LuJunru/MemoChat)]
+
+- **MemoryBank: Enhancing Large Language Models with Long-Term Memory**  
+  Wanjun Zhong et al. AAAI 2024.  
+  [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29946)] [[Code](https://github.com/zhongwanjun/MemoryBank-SiliconFriend)]
+
+- **Evaluating Very Long-Term Conversational Memory of LLM Agents (LoCoMo)**  
+  Adyasha Maharana et al. ACL 2024.  
+  [[Paper](https://arxiv.org/abs/2402.17753)] [[Code and Data](https://github.com/snap-research/locomo)]
+
+- **LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory**  
+  Di Wu et al. ICLR 2025.  
+  [[Paper](https://openreview.net/forum?id=Q4Y1cs8hrZ)] [[Code and Data](https://github.com/xiaowu0162/LongMemEval)]
+
+- **On Memory Construction and Retrieval for Personalized Conversational Agents (SeCom)**  
+  Zhuoshi Pan et al. ICLR 2025.  
+  [[Paper](https://openreview.net/forum?id=xKDZAW0He3)] [[Code](https://github.com/microsoft/SeCom)]
 
 ## Datasets and Benchmarks
 
