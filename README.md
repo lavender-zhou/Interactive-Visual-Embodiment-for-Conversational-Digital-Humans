@@ -226,11 +226,292 @@ A curated list of papers and resources for the survey **Interactive Visual Embod
 - **[LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory](https://openreview.net/forum?id=Q4Y1cs8hrZ)** — *ICLR 2025*
 - **[On Memory Construction and Retrieval for Personalized Conversational Agents](https://openreview.net/forum?id=xKDZAW0He3)** — *ICLR 2025*
 
+### Emotion and Intent Modeling
+
+- **[MMGCN: Multimodal Fusion via Deep Graph Convolution Network for Emotion Recognition in Conversation](https://doi.org/10.18653/v1/2021.acl-long.440)** — *ACL-IJCNLP 2021*
+
+- **[COGMEN: COntextualized GNN Based Multimodal Emotion RecognitioN](https://doi.org/10.18653/v1/2022.naacl-main.306)** — *NAACL 2022*
+
+- **Emotion-LLaMA: Multimodal Emotion Recognition and Reasoning with Instruction Tuning** — *NeurIPS 2024*
+
+- **[SemEval-2024 Task 3: Multimodal Emotion Cause Analysis in Conversations](https://doi.org/10.18653/v1/2024.semeval-1.277)** — *SemEval 2024*
+
+- **[MIntRec: A New Dataset for Multimodal Intent Recognition](https://doi.org/10.1145/3503161.3547906)** — *ACM MM 2022*
+
+- **[MIntRec2.0: A Large-Scale Benchmark Dataset for Multimodal Intent Recognition and Out-of-Scope Detection in Conversations](https://openreview.net/forum?id=JbL9f9XeI2)** — *ICLR 2024*
+
+
+## Generation and Rendering
+
+### Behavior Representations
+
+#### Two-Dimensional Representations
+
+- **Animating Arbitrary Objects via Deep Motion Transfer (Monkey-Net)** — *CVPR 2019*
+
+- **[First Order Motion Model for Image Animation](https://proceedings.neurips.cc/paper/2019/hash/31c0b36aef265d9221af80872ceb62f9-Abstract.html)** — *NeurIPS 2019*
+
+- **[Thin-Plate Spline Motion Model for Image Animation](https://openaccess.thecvf.com/content/CVPR2022/html/Zhao_Thin-Plate_Spline_Motion_Model_for_Image_Animation_CVPR_2022_paper.html)** — *CVPR 2022*
+
+
+#### Three-Dimensional Representations
+
+- **[A Morphable Model for the Synthesis of 3D Faces](https://doi.org/10.1145/311535.311556)** — *SIGGRAPH 1999*
+
+- **[Face Transfer with Multilinear Models](https://doi.org/10.1145/1073204.1073209)** — *ACM TOG 2005*
+
+- **[FaceWarehouse: A 3D Facial Expression Database for Visual Computing](https://doi.org/10.1109/TVCG.2013.249)** — *IEEE TVCG 2014*
+
+- **[Learning a Model of Facial Shape and Expression from 4D Scans (FLAME)](https://doi.org/10.1145/3130800.3130813)** — *ACM TOG 2017*
+
+- **FaceScape: A Large-Scale High Quality 3D Face Dataset and Detailed Riggable 3D Face Prediction** — *CVPR 2020*
+
+- **[Learning an Animatable Detailed 3D Face Model from In-the-Wild Images (DECA)](https://doi.org/10.1145/3450626.3459936)** — *ACM TOG 2021*
+
+- **[SMPL: A Skinned Multi-Person Linear Model](https://doi.org/10.1145/2816795.2818013)** — *ACM TOG 2015*
+
+- **[Expressive Body Capture: 3D Hands, Face, and Body from a Single Image (SMPL-X)](https://doi.org/10.1109/CVPR.2019.01123)** — *CVPR 2019*
+
+
+#### Learned Discrete Motion Representations
+
+- **[Learning to Listen: Modeling Non-Deterministic Dyadic Facial Motion](https://arxiv.org/abs/2204.08451)** — *CVPR 2022*
+
+- **[CodeTalker: Speech-Driven 3D Facial Animation with Discrete Motion Prior](https://doi.org/10.1109/CVPR52729.2023.01229)** — *CVPR 2023*
+
+- **T2M-GPT: Generating Human Motion from Textual Descriptions with Discrete Representations** — *CVPR 2023*
+
+
+### Generative Models
+
+#### Generative Adversarial Models
+
+- **Generative Adversarial Nets** — *NeurIPS 2014*
+
+- **[Image-to-Image Translation with Conditional Adversarial Networks (pix2pix)](https://doi.org/10.1109/CVPR.2017.632)** — *CVPR 2017*
+
+- **[Few-Shot Adversarial Learning of Realistic Neural Talking Head Models](https://doi.org/10.1109/ICCV.2019.00955)** — *ICCV 2019*
+
+- **HeadGAN: One-Shot Neural Head Synthesis and Editing** — *ICCV 2021*
+
+- **[Speech-Driven Facial Animation Using Cascaded GANs for Learning of Motion and Texture](https://doi.org/10.1007/978-3-030-58577-8_25)** — *ECCV 2020*
+
+- **[MakeItTalk: Speaker-Aware Talking-Head Animation](https://doi.org/10.1145/3414685.3417774)** — *ACM TOG 2020*
+
+- **[A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild](https://doi.org/10.1145/3394171.3413532)** — *ACM MM 2020*
+
+- **[Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation](https://doi.org/10.1109/CVPR46437.2021.00416)** — *CVPR 2021*
+
+
+#### Latent-Variable Models
+
+- **Audio2Gestures: Generating Diverse Gestures from Speech Audio with Conditional Variational Autoencoders** — *ICCV 2021*
+
+- **[Learning to Listen: Modeling Non-Deterministic Dyadic Facial Motion](https://arxiv.org/abs/2204.08451)** — *CVPR 2022*
+
+- **[Emotional Listener Portrait: Realistic Listener Motion Simulation in Conversation](https://doi.org/10.1109/ICCV51070.2023.01905)** — *ICCV 2023*
+
+- **Generating Holistic 3D Human Motion from Speech (TalkSHOW)** — *CVPR 2023*
+
+
+#### Autoregressive Models
+
+- **[FaceFormer: Speech-Driven 3D Facial Animation with Transformers](https://doi.org/10.1109/CVPR52688.2022.01821)** — *CVPR 2022*
+
+- **[CodeTalker: Speech-Driven 3D Facial Animation with Discrete Motion Prior](https://doi.org/10.1109/CVPR52729.2023.01229)** — *CVPR 2023*
+
+- **[Learning to Listen: Modeling Non-Deterministic Dyadic Facial Motion](https://arxiv.org/abs/2204.08451)** — *CVPR 2022*
+
+- **Generating Holistic 3D Human Motion from Speech (TalkSHOW)** — *CVPR 2023*
+
+
+#### Diffusion Models
+
+- **[Denoising Diffusion Probabilistic Models](https://proceedings.neurips.cc/paper/2020/hash/4c5bcfec8584af0d967f1ab10179ca4b-Abstract.html)** — *NeurIPS 2020*
+
+- **[DiffTalk: Crafting Diffusion Models for Generalized Talking Head Synthesis](https://doi.org/10.1109/CVPR52729.2023.00197)** — *CVPR 2023*
+
+- **[Diffused Heads: Diffusion Models Beat GANs on Talking-Face Generation](https://doi.org/10.1109/WACV57701.2024.00502)** — *WACV 2024*
+
+- **[MoDiTalker: Motion-Disentangled Diffusion Model for High-Fidelity Talking Head Generation](https://doi.org/10.1609/aaai.v39i4.32452)** — *AAAI 2025*
+
+- **[DiffPoseTalk: Speech-Driven Stylistic 3D Facial Animation and Head Pose Generation via Diffusion Models](https://doi.org/10.1145/3658221)** — *ACM TOG 2024*
+
+- **[DiffuseStyleGesture: Stylized Audio-Driven Co-Speech Gesture Generation with Diffusion Models](https://doi.org/10.24963/ijcai.2023/650)** — *IJCAI 2023*
+
+- **DiffSHEG: A Diffusion-Based Approach for Real-Time Speech-Driven Holistic 3D Expression and Gesture Generation** — *CVPR 2024*
+
+- **[MFR-Net: Multi-faceted Responsive Listening Head Generation via Denoising Diffusion Model](https://doi.org/10.1145/3581783.3612123)** — *ACM MM 2023*
+
+
+### Two-Dimensional Visual Synthesis
+
+#### Motion Field Warping and Inpainting
+
+- **[First Order Motion Model for Image Animation](https://proceedings.neurips.cc/paper/2019/hash/31c0b36aef265d9221af80872ceb62f9-Abstract.html)** — *NeurIPS 2019*
+
+- **[Thin-Plate Spline Motion Model for Image Animation](https://openaccess.thecvf.com/content/CVPR2022/html/Zhao_Thin-Plate_Spline_Motion_Model_for_Image_Animation_CVPR_2022_paper.html)** — *CVPR 2022*
+
+- **Depth-Aware Generative Adversarial Network for Talking Head Video Generation (DaGAN)** — *CVPR 2022*
+
+- **[Audio-Visual Face Reenactment (AVFR-GAN)](https://openaccess.thecvf.com/content/WACV2023/html/Agarwal_Audio-Visual_Face_Reenactment_WACV_2023_paper.html)** — *WACV 2023*
+
+- **[LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control](https://arxiv.org/abs/2407.03168)** — *arXiv 2024*
+
+
+#### Feed-Forward Image Synthesis
+
+- **[A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild](https://doi.org/10.1145/3394171.3413532)** — *ACM MM 2020*
+
+- **Progressive Disentangled Representation Learning for Fine-Grained Controllable Talking Head Synthesis (PD-FGC)** — *CVPR 2023*
+
+- **[Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation](https://doi.org/10.1109/CVPR46437.2021.00416)** — *CVPR 2021*
+
+- **StyleLipSync: Style-based Personalized Lip-sync Video Generation** — *ICCV 2023*
+
+- **StyleSync** — *CVPR 2024*
+
+
+#### Diffusion-Based Video Synthesis
+
+- **[DiffTalk: Crafting Diffusion Models for Generalized Talking Head Synthesis](https://doi.org/10.1109/CVPR52729.2023.00197)** — *CVPR 2023*
+
+- **HunyuanPortrait: Implicit Condition Control for Enhanced Portrait Animation** — *CVPR 2025*
+
+- **Hallo3: Highly Dynamic and Realistic Portrait Image Animation with Video Diffusion Transformer** — *CVPR 2025*
+
+- **[DiTaiListener: Controllable High Fidelity Listener Video Generation with Diffusion](https://arxiv.org/abs/2504.04010)** — *ICCV 2025*
+
+
+### Three-Dimensional Avatar Rendering
+
+#### Mesh-Based Rendering
+
+- **Neural Voice Puppetry: Audio-driven Facial Reenactment** — *ECCV 2020*
+
+- **Neural Head Avatars from Monocular RGB Videos** — *CVPR 2022*
+
+- **Learning Dynamic Tetrahedra for High-Quality Talking Head Synthesis (DynTet)** — *CVPR 2024*
+
+- **Towards High-fidelity 3D Talking Avatar with Personalized Dynamic Texture (TexTalker)** — *CVPR 2025*
+
+
+#### Neural Radiance Fields
+
+- **AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis** — *ICCV 2021*
+
+- **GeneFace: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis** — *ICLR 2023*
+
+- **One-Shot High-Fidelity Talking-Head Synthesis with Deformable Neural Radiance Field (HiDe-NeRF)** — *CVPR 2023*
+
+- **Efficient Region-Aware Neural Radiance Fields for High-Fidelity Talking Portrait Synthesis (ER-NeRF)** — *ICCV 2023*
+
+- **SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis** — *CVPR 2024*
+
+- **S3D-NeRF: Single-Shot Speech-Driven Neural Radiance Field for High Fidelity Talking Head Synthesis** — *ECCV 2024*
+
+
+#### 3D Gaussian Splatting
+
+- **[GaussianTalker: Real-Time Talking Head Synthesis with 3D Gaussian Splatting](https://doi.org/10.1145/3664647.3681627)** — *ACM MM 2024*
+
+- **GaussianSpeech: Audio-Driven Personalized 3D Gaussian Avatars** — *ICCV 2025*
+
+- **DGTalker: Disentangled Generative Latent Space Learning for Audio-Driven Gaussian Talking Heads** — *ICCV 2025*
+
+- **InsTaG: Learning Personalized 3D Talking Head from Few-Second Video** — *CVPR 2025*
+
+- **GGTalker: Talking Head Synthesis with Generalizable Gaussian Priors and Identity-Specific Adaptation** — *ICCV 2025*
+
+- **Monocular and Generalizable Gaussian Talking Head Animation (MGGTalk)** — *CVPR 2025*
+
+- **TaoAvatar: Real-Time Lifelike Full-Body Talking Avatars for Augmented Reality via 3D Gaussian Splatting** — *CVPR 2025*
+
+
 ## Datasets and Benchmarks
 
-<!-- Papers to be added. -->
+### Speaking and Talking-Head Datasets
 
-## Contributing
+- **[A 3-D Audio-Visual Corpus of Affective Communication (BIWI)](https://doi.org/10.1109/TMM.2010.2052239)** — *IEEE TMM 2010*
+
+- **[Capture, Learning, and Synthesis of 3D Speaking Styles (VOCASET)](https://doi.org/10.1109/CVPR.2019.01034)** — *CVPR 2019*
+
+- **[Flow-Guided One-Shot Talking Face Generation With a High-Resolution Audio-Visual Dataset (HDTF)](https://doi.org/10.1109/CVPR46437.2021.00366)** — *CVPR 2021*
+
+- **[VoxCeleb2: Deep Speaker Recognition](https://doi.org/10.21437/Interspeech.2018-1929)** — *INTERSPEECH 2018*
+
+- **[Deep Audio-Visual Speech Recognition (LRS2)](https://doi.org/10.1109/TPAMI.2018.2889052)** — *IEEE TPAMI 2022*
+
+- **[LRS3-TED: A Large-Scale Dataset for Visual Speech Recognition](https://arxiv.org/abs/1809.00496)** — *arXiv 2018*
+
+- **[TalkVid: A Large-Scale Diversified Dataset for Audio-Driven Talking Head Synthesis](https://arxiv.org/abs/2508.13618)** — *CVPR Findings 2026*
+
+
+### Interactive and Listening Datasets
+
+- **[Responsive Listening Head Generation: A Benchmark Dataset and Baseline (ViCo)](https://arxiv.org/abs/2112.13548)** — *ECCV 2022*
+
+- **[REACT2023: The First Multiple Appropriate Facial Reaction Generation Challenge](https://doi.org/10.1145/3581783.3612832)** — *ACM MM 2023*
+
+- **[Interactive Conversational Head Generation (ViCo-X)](https://doi.org/10.1109/TPAMI.2025.3562651)** — *IEEE TPAMI 2025*
+
+- **DualTalk: Dual-Speaker Interaction for 3D Talking Head Conversations** — *CVPR 2025*
+
+- **[SpeakerVid-5M: A Large-Scale High-Quality Dataset for Audio-Visual Dyadic Interactive Human Generation](https://proceedings.iclr.cc/paper_files/paper/2026/hash/bf7dbac50ed7f6e12ad529c5b9396bc4-Abstract-Conference.html)** — *ICLR 2026*
+
+- **[Multi-TPC: A Multimodal Dataset for Three-Party Conversations with Speech, Motion, and Gaze](https://doi.org/10.1038/s41597-026-06819-x)** — *Scientific Data 2026*
+
+
+### Interaction Benchmarks
+
+- **[REACT 2025: The Third Multiple Appropriate Facial Reaction Generation Challenge](https://doi.org/10.1145/3746027.3762244)** — *ACM MM 2025*
+
+- **[Full-Duplex-Bench: A Benchmark to Evaluate Full-Duplex Spoken Dialogue Models on Turn-taking Capabilities](https://arxiv.org/abs/2503.04721)** — *ASRU 2025*
+
+- **[VideoFDB: Evaluating Full-Duplex Vision-Speech Capabilities in Conversational Agents](https://arxiv.org/abs/2605.30256)** — *arXiv 2026*
+
+
+## Evaluation
+
+### Visual Quality
+
+- **[Image Quality Assessment: From Error Visibility to Structural Similarity (SSIM)](https://doi.org/10.1109/TIP.2003.819861)** — *IEEE TIP 2004*
+
+- **GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium (FID)** — *NeurIPS 2017*
+
+- **The Unreasonable Effectiveness of Deep Features as a Perceptual Metric (LPIPS)** — *CVPR 2018*
+
+- **[Towards Accurate Generative Models of Video: A New Metric & Challenges (FVD)](https://arxiv.org/abs/1812.01717)** — *arXiv 2018*
+
+- **Out of Time: Automated Lip Sync in the Wild (SyncNet)** — *ACCV Workshop 2016*
+
+- **[A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild (LSE-D / LSE-C)](https://doi.org/10.1145/3394171.3413532)** — *ACM MM 2020*
+
+
+### Response Appropriateness
+
+- **[Learning to Listen: Modeling Non-Deterministic Dyadic Facial Motion](https://arxiv.org/abs/2204.08451)** — *CVPR 2022*
+
+- **[REACT2023: The First Multiple Appropriate Facial Reaction Generation Challenge](https://doi.org/10.1145/3581783.3612832)** — *ACM MM 2023*
+
+- **[CustomListener: Text-guided Responsive Interaction for User-friendly Listening Head Generation](https://arxiv.org/abs/2403.00274)** — *CVPR 2024*
+
+- **LLM-driven Multimodal and Multi-Identity Listening Head Generation** — *CVPR 2025*
+
+- **[Beyond Turn-Based Interfaces: Synchronous LLMs as Full-Duplex Dialogue Agents](https://doi.org/10.18653/v1/2024.emnlp-main.1192)** — *EMNLP 2024*
+
+- **[Full-Duplex-Bench: A Benchmark to Evaluate Full-Duplex Spoken Dialogue Models on Turn-taking Capabilities](https://arxiv.org/abs/2503.04721)** — *ASRU 2025*
+
+
+### User Experience
+
+- **[Responsive Listening Head Generation: A Benchmark Dataset and Baseline](https://arxiv.org/abs/2112.13548)** — *ECCV 2022*
+
+- **[CustomListener: Text-guided Responsive Interaction for User-friendly Listening Head Generation](https://arxiv.org/abs/2403.00274)** — *CVPR 2024*
+
+- **[Beyond Turn-Based Interfaces: Synchronous LLMs as Full-Duplex Dialogue Agents](https://doi.org/10.18653/v1/2024.emnlp-main.1192)** — *EMNLP 2024*
+
+
 
 Suggestions and corrections are welcome. Please open an issue or submit a pull request.
 
