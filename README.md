@@ -2,7 +2,7 @@
 
 A curated list of papers and resources for the survey **Interactive Visual Embodiment for Conversational Digital Humans**.
 
-> This repository is under active construction. Papers are organized according to the section in which they are cited in the current survey draft. Each paper title includes a link to the DOI, official page, arXiv/OpenReview page, or a Google Scholar search when no stable direct link is available.
+> This repository is under active construction. Papers are organized according to the section in which they are cited in the current survey draft. Each paper title links directly to its DOI, official publication page, arXiv page, OpenReview page, or author project page.
 
 ## Contents
 
@@ -39,27 +39,27 @@ A curated list of papers and resources for the survey **Interactive Visual Embod
 
 # Introduction
 
-- **[Synthesizing Obama: learning lip sync from audio](https://scholar.google.com/scholar?q=Synthesizing+Obama%3A+learning+lip+sync+from+audio)** — *ACM TOG 2017*
+- **[Synthesizing Obama: learning lip sync from audio](https://doi.org/10.1145/3072959.3073640)** — *ACM TOG 2017*
 
-- **[A Survey of Talking Head Synthesis Techniques: Portrait Generation, Driving Mechanisms, and Editing](https://scholar.google.com/scholar?q=A+Survey+of+Talking+Head+Synthesis+Techniques%3A+Portrait+Generation%2C+Driving+Mechanisms%2C+and+Editing)** — *2026*
+- **[A Survey of Talking Head Synthesis Techniques: Portrait Generation, Driving Mechanisms, and Editing](https://doi.org/10.1145/3785656)** — *2026*
 
-- **[Deep Person Generation: A Survey from the Perspective of Face, Pose, and Cloth Synthesis](https://scholar.google.com/scholar?q=Deep+Person+Generation%3A+A+Survey+from+the+Perspective+of+Face%2C+Pose%2C+and+Cloth+Synthesis)** — *2023*
+- **[Deep Person Generation: A Survey from the Perspective of Face, Pose, and Cloth Synthesis](https://doi.org/10.1145/3575656)** — *2023*
 
-- **[Talking Human Face Generation: A Survey](https://scholar.google.com/scholar?q=Talking+Human+Face+Generation%3A+A+Survey)** — *Expert Systems with Applications 2023*
+- **[Talking Human Face Generation: A Survey](https://doi.org/10.1016/j.eswa.2023.119678)** — *Expert Systems with Applications 2023*
 
-- **[Human–Computer Interaction System: A Survey of Talking-Head Generation](https://scholar.google.com/scholar?q=Human%E2%80%93Computer+Interaction+System%3A+A+Survey+of+Talking-Head+Generation)** — *Electronics 2023*
+- **[Human–Computer Interaction System: A Survey of Talking-Head Generation](https://doi.org/10.3390/electronics12010218)** — *Electronics 2023*
 
-- **[A survey on generative nonverbal facial behavior for highly realistic embodied agents](https://scholar.google.com/scholar?q=A+survey+on+generative+nonverbal+facial+behavior+for+highly+realistic+embodied+agents)** — *Intelligent Service Robotics 2026*
+- **[A survey on generative nonverbal facial behavior for highly realistic embodied agents](https://doi.org/10.1007/s11370-025-00674-2)** — *Intelligent Service Robotics 2026*
 
-- **[A Comprehensive Review of Data-Driven Co-Speech Gesture Generation](https://scholar.google.com/scholar?q=A+Comprehensive+Review+of+Data-Driven+Co-Speech+Gesture+Generation)** — *Computer Graphics Forum 2023*
+- **[A Comprehensive Review of Data-Driven Co-Speech Gesture Generation](https://doi.org/10.1111/cgf.14776)** — *Computer Graphics Forum 2023*
 
-- **[Human Motion Generation: A Survey](https://scholar.google.com/scholar?q=Human+Motion+Generation%3A+A+Survey)** — *IEEE TPAMI 2024*
+- **[Human Motion Generation: A Survey](https://doi.org/10.1109/tpami.2023.3330935)** — *IEEE TPAMI 2024*
 
-- **[Virtual Human: A Comprehensive Survey on Academic and Applications](https://scholar.google.com/scholar?q=Virtual+Human%3A+A+Comprehensive+Survey+on+Academic+and+Applications)** — *IEEE Access 2023*
+- **[Virtual Human: A Comprehensive Survey on Academic and Applications](https://doi.org/10.1109/access.2023.3329573)** — *IEEE Access 2023*
 
-- **[The interaction design of 3D virtual humans: A survey](https://scholar.google.com/scholar?q=The+interaction+design+of+3D+virtual+humans%3A+A+survey)** — *Computer Science Review 2024*
+- **[The interaction design of 3D virtual humans: A survey](https://doi.org/10.1016/j.cosrev.2024.100653)** — *Computer Science Review 2024*
 
-- **[Embodied Conversational Agents in Extended Reality: A Systematic Review](https://scholar.google.com/scholar?q=Embodied+Conversational+Agents+in+Extended+Reality%3A+A+Systematic+Review)** — *IEEE Access 2025*
+- **[Embodied Conversational Agents in Extended Reality: A Systematic Review](https://doi.org/10.1109/access.2025.3566698)** — *IEEE Access 2025*
 
 ---
 
@@ -75,7 +75,7 @@ No external papers are cited in the current draft's **Key Concepts** or **Proble
 
 - **[A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild](https://doi.org/10.1145/3394171.3413532)** — *ACM MM 2020*
 
-- **[Synthesizing Obama: learning lip sync from audio](https://scholar.google.com/scholar?q=Synthesizing+Obama%3A+learning+lip+sync+from+audio)** — *ACM TOG 2017*
+- **[Synthesizing Obama: learning lip sync from audio](https://doi.org/10.1145/3072959.3073640)** — *ACM TOG 2017*
 
 - **[You Said That?: Synthesising Talking Faces from Audio](https://doi.org/10.1007/s11263-019-01150-y)** — *IJCV 2019*
 
@@ -101,7 +101,7 @@ No external papers are cited in the current draft's **Key Concepts** or **Proble
 
 - **[ScanTalk: 3D Talking Heads from Unregistered Scans](https://doi.org/10.1007/978-3-031-73397-0_2)** — *ECCV 2025*
 
-- **[First Order Motion Model for Image Animation](https://scholar.google.com/scholar?q=First+Order+Motion+Model+for+Image+Animation)** — *NeurIPS 2019*
+- **[First Order Motion Model for Image Animation](https://arxiv.org/abs/2003.00196)** — *NeurIPS 2019*
 
 - **[One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing](https://doi.org/10.1109/CVPR46437.2021.00991)** — *CVPR 2021*
 
@@ -119,11 +119,11 @@ No external papers are cited in the current draft's **Key Concepts** or **Proble
 
 - **[CustomListener: Text-guided Responsive Interaction for User-friendly Listening Head Generation](https://arxiv.org/abs/2403.00274)** — *CVPR 2024*
 
-- **[VividListener: Expressive and Controllable Listener Dynamics Modeling for Multi-Modal Responsive Interaction](https://scholar.google.com/scholar?q=VividListener%3A+Expressive+and+Controllable+Listener+Dynamics+Modeling+for+Multi-Modal+Responsive+Interaction)** — *AAAI 2026*
+- **[VividListener: Expressive and Controllable Listener Dynamics Modeling for Multi-Modal Responsive Interaction](https://doi.org/10.1609/aaai.v40i8.37567)** — *AAAI 2026*
 
-- **[Can Language Models Learn to Listen?](https://scholar.google.com/scholar?q=Can+Language+Models+Learn+to+Listen%3F)** — *ICCV 2023*
+- **[Can Language Models Learn to Listen?](https://doi.org/10.1109/iccv51070.2023.00925)** — *ICCV 2023*
 
-- **[DIM: Dyadic Interaction Modeling for Social Behavior Generation](https://scholar.google.com/scholar?q=DIM%3A+Dyadic+Interaction+Modeling+for+Social+Behavior+Generation)** — *ECCV 2024*
+- **[DIM: Dyadic Interaction Modeling for Social Behavior Generation](https://doi.org/10.1007/978-3-031-72913-3_27)** — *ECCV 2024*
 
 - **[LLM-driven Multimodal and Multi-Identity Listening Head Generation](https://doi.org/10.1109/CVPR52734.2025.00996)** — *CVPR 2025*
 
@@ -161,7 +161,7 @@ No external papers are cited in the current draft's **Key Concepts** or **Proble
 
 ### Conversational Continuity and Context Modeling
 
-- **[MimicTalker: A Multimodal Interactive and Memory-Enhanced Framework for Real-Time Dyadic 3D Head Generation](https://arxiv.org/abs/2601.02103)** — *CVPR 2026*
+- **[MimicTalker: A Multimodal Interactive and Memory-Enhanced Framework for Real-Time Dyadic 3D Head Generation](https://nuo1wang.github.io/MimicTalker/)** — *CVPR 2026*
 
 - **[Towards Seamless Interaction: Causal Turn-Level Modeling of Interactive 3D Conversational Head Dynamics](https://arxiv.org/abs/2512.15340)** — *arXiv 2026*
 
@@ -199,17 +199,17 @@ No external papers are cited in the current draft's **Key Concepts** or **Proble
 
 - **[Qwen2-Audio Technical Report](https://arxiv.org/abs/2407.10759)** — *arXiv 2024*
 
-- **[Advancing Large Language Models to Capture Varied Speaking Styles and Respond Properly in Spoken Conversations](https://scholar.google.com/scholar?q=Advancing+Large+Language+Models+to+Capture+Varied+Speaking+Styles+and+Respond+Properly+in+Spoken+Conversations)** — *ACL 2024*
+- **[Advancing Large Language Models to Capture Varied Speaking Styles and Respond Properly in Spoken Conversations](https://doi.org/10.18653/v1/2024.acl-long.358)** — *ACL 2024*
 
-- **[Speech Recognition Meets Large Language Model: Benchmarking, Models, and Exploration](https://scholar.google.com/scholar?q=Speech+Recognition+Meets+Large+Language+Model%3A+Benchmarking%2C+Models%2C+and+Exploration)** — *AAAI 2025*
+- **[Speech Recognition Meets Large Language Model: Benchmarking, Models, and Exploration](https://doi.org/10.1609/aaai.v39i23.34666)** — *AAAI 2025*
 
 - **[SALMONN: Towards Generic Hearing Abilities for Large Language Models](https://arxiv.org/abs/2310.13289)** — *ICLR 2024*
 
-- **[Let’s Go Real Talk: Spoken Dialogue Model for Face-to-Face Conversation](https://scholar.google.com/scholar?q=Let%E2%80%99s+Go+Real+Talk%3A+Spoken+Dialogue+Model+for+Face-to-Face+Conversation)** — *ACL 2024*
+- **[Let’s Go Real Talk: Spoken Dialogue Model for Face-to-Face Conversation](https://doi.org/10.18653/v1/2024.acl-long.860)** — *ACL 2024*
 
 - **[AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling](https://doi.org/10.18653/v1/2024.acl-long.521)** — *ACL 2024*
 
-- **[SPIRIT-LM: Interleaved Spoken and Written Language Model](https://doi.org/10.1162/tacl_a_00728)** — *TACL 2025*
+- **[SPIRIT-LM: Interleaved Spoken and Written Language Model](https://arxiv.org/abs/2402.05755)** — *TACL 2025*
 
 - **[Moshi: a speech-text foundation model for real-time dialogue](https://arxiv.org/abs/2410.00037)** — *arXiv 2024*
 
@@ -217,25 +217,25 @@ No external papers are cited in the current draft's **Key Concepts** or **Proble
 
 - **[OpenFace: An Open Source Facial Behavior Analysis Toolkit](https://doi.org/10.1109/WACV.2016.7477553)** — *2016*
 
-- **[OpenFace 3.0: A Lightweight Multitask System for Comprehensive Facial Behavior Analysis](https://scholar.google.com/scholar?q=OpenFace+3.0%3A+A+Lightweight+Multitask+System+for+Comprehensive+Facial+Behavior+Analysis)** — *2025*
+- **[OpenFace 3.0: A Lightweight Multitask System for Comprehensive Facial Behavior Analysis](https://doi.org/10.1109/fg61629.2025.11099277)** — *2025*
 
 - **[Gaze-LLE: Gaze Target Estimation via Large-Scale Learned Encoders](https://arxiv.org/abs/2412.09586)** — *2025*
 
-- **[Realtime Multi-Person 2D Pose Estimation Using Part Affinity Fields](https://scholar.google.com/scholar?q=Realtime+Multi-Person+2D+Pose+Estimation+Using+Part+Affinity+Fields)** — *2017*
+- **[Realtime Multi-Person 2D Pose Estimation Using Part Affinity Fields](https://doi.org/10.1109/cvpr.2017.143)** — *2017*
 
 - **[ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation](https://doi.org/10.52202/068431-2795)** — *NeurIPS 2022*
 
 - **[RTMO: Towards High-Performance One-Stage Real-Time Multi-Person Pose Estimation](https://arxiv.org/abs/2312.07526)** — *CVPR 2024*
 
-- **[Sapiens: Foundation for Human Vision Models](https://scholar.google.com/scholar?q=Sapiens%3A+Foundation+for+Human+Vision+Models)** — *ECCV 2024*
+- **[Sapiens: Foundation for Human Vision Models](https://doi.org/10.1007/978-3-031-73235-5_12)** — *ECCV 2024*
 
-- **[AVA Active Speaker: An Audio-Visual Dataset for Active Speaker Detection](https://scholar.google.com/scholar?q=AVA+Active+Speaker%3A+An+Audio-Visual+Dataset+for+Active+Speaker+Detection)** — *ICASSP 2020*
+- **[AVA Active Speaker: An Audio-Visual Dataset for Active Speaker Detection](https://doi.org/10.1109/icassp40776.2020.9053900)** — *ICASSP 2020*
 
-- **[Is Someone Speaking? Exploring Long-Term Temporal Features for Audio-Visual Active Speaker Detection](https://scholar.google.com/scholar?q=Is+Someone+Speaking%3F+Exploring+Long-Term+Temporal+Features+for+Audio-Visual+Active+Speaker+Detection)** — *ACM MM 2021*
+- **[Is Someone Speaking? Exploring Long-Term Temporal Features for Audio-Visual Active Speaker Detection](https://arxiv.org/abs/2107.06592)** — *ACM MM 2021*
 
-- **[Learning Long-Term SpatialTemporal Graphs for Active Speaker Detection](https://scholar.google.com/scholar?q=Learning+Long-Term+SpatialTemporal+Graphs+for+Active+Speaker+Detection)** — *ECCV 2022*
+- **[Learning Long-Term SpatialTemporal Graphs for Active Speaker Detection](https://doi.org/10.1007/978-3-031-19833-5_22)** — *ECCV 2022*
 
-- **[A Light Weight Model for Active Speaker Detection](https://scholar.google.com/scholar?q=A+Light+Weight+Model+for+Active+Speaker+Detection)** — *CVPR 2023*
+- **[A Light Weight Model for Active Speaker Detection](https://doi.org/10.1109/cvpr52729.2023.02196)** — *CVPR 2023*
 
 - **[LoCoNet: Long-Short Context Network for Active Speaker Detection](https://doi.org/10.1109/CVPR52733.2024.01747)** — *CVPR 2024*
 
@@ -243,51 +243,51 @@ No external papers are cited in the current draft's **Key Concepts** or **Proble
 
 ### Dialogue and Context Understanding
 
-- **[A Simple Language Model for Task-Oriented Dialogue](https://scholar.google.com/scholar?q=A+Simple+Language+Model+for+Task-Oriented+Dialogue)** — *NeurIPS 2020*
+- **[A Simple Language Model for Task-Oriented Dialogue](https://arxiv.org/abs/2005.00796)** — *NeurIPS 2020*
 
-- **[SUMBT: Slot-Utterance Matching for Universal and Scalable Belief Tracking](https://scholar.google.com/scholar?q=SUMBT%3A+Slot-Utterance+Matching+for+Universal+and+Scalable+Belief+Tracking)** — *ACL 2019*
+- **[SUMBT: Slot-Utterance Matching for Universal and Scalable Belief Tracking](https://doi.org/10.18653/v1/p19-1546)** — *ACL 2019*
 
 - **[TRADE: Transferable Multi-Domain State Generator for Task-Oriented Dialogue Systems](https://doi.org/10.18653/v1/P19-1078)** — *ACL 2019*
 
-- **[Description-Driven Dialogue State Tracking](https://doi.org/10.18653/v1/2022.sigdial-1.22)** — *SIGDIAL 2022*
+- **[Description-Driven Task-Oriented Dialog Modeling](https://arxiv.org/abs/2201.08904)** — *arXiv 2022*
 
-- **[GSN: A Graph-Structured Network for Multi-Party Dialogues](https://scholar.google.com/scholar?q=GSN%3A+A+Graph-Structured+Network+for+Multi-Party+Dialogues)** — *IJCAI 2019*
+- **[GSN: A Graph-Structured Network for Multi-Party Dialogues](https://doi.org/10.24963/ijcai.2019/696)** — *IJCAI 2019*
 
-- **[GIFT: Graph-Induced Fine-Tuning for MultiParty Conversation Understanding](https://scholar.google.com/scholar?q=GIFT%3A+Graph-Induced+Fine-Tuning+for+MultiParty+Conversation+Understanding)** — *ACL 2023*
+- **[GIFT: Graph-Induced Fine-Tuning for MultiParty Conversation Understanding](https://doi.org/10.18653/v1/2023.acl-long.651)** — *ACL 2023*
 
-- **[MPC-BERT: A PreTrained Language Model for Multi-Party Conversation Understanding](https://scholar.google.com/scholar?q=MPC-BERT%3A+A+PreTrained+Language+Model+for+Multi-Party+Conversation+Understanding)** — *ACL 2021*
+- **[MPC-BERT: A PreTrained Language Model for Multi-Party Conversation Understanding](https://doi.org/10.18653/v1/2021.acl-long.285)** — *ACL 2021*
 
-- **[Friends-MMC: A Dataset for Multi-Modal Multi-Party Conversation Understanding](https://scholar.google.com/scholar?q=Friends-MMC%3A+A+Dataset+for+Multi-Modal+Multi-Party+Conversation+Understanding)** — *AAAI 2025*
+- **[Friends-MMC: A Dataset for Multi-Modal Multi-Party Conversation Understanding](https://doi.org/10.1609/aaai.v39i24.34731)** — *AAAI 2025*
 
-- **[Audio Visual Scene-Aware Dialog](https://scholar.google.com/scholar?q=Audio+Visual+Scene-Aware+Dialog)** — *CVPR 2019*
+- **[Audio Visual Scene-Aware Dialog](https://doi.org/10.1109/cvpr.2019.00774)** — *CVPR 2019*
 
-- **[SIMMC 2.0: A Task-Oriented Dialog Dataset for Immersive Multimodal Conversations](https://scholar.google.com/scholar?q=SIMMC+2.0%3A+A+Task-Oriented+Dialog+Dataset+for+Immersive+Multimodal+Conversations)** — *EMNLP 2021*
+- **[SIMMC 2.0: A Task-Oriented Dialog Dataset for Immersive Multimodal Conversations](https://doi.org/10.18653/v1/2021.emnlp-main.401)** — *EMNLP 2021*
 
-- **[MMDU: A Multi-Turn Multi-Image Dialog Understanding Benchmark and Instruction-Tuning Dataset for LVLMs](https://scholar.google.com/scholar?q=MMDU%3A+A+Multi-Turn+Multi-Image+Dialog+Understanding+Benchmark+and+Instruction-Tuning+Dataset+for+LVLMs)** — *NeurIPS 2024*
+- **[MMDU: A Multi-Turn Multi-Image Dialog Understanding Benchmark and Instruction-Tuning Dataset for LVLMs](https://doi.org/10.52202/079017-0278)** — *NeurIPS 2024*
 
-- **[VSTAR: A Video-Grounded Dialogue Dataset for Situated Semantic Understanding with Scene and Topic Transitions](https://scholar.google.com/scholar?q=VSTAR%3A+A+Video-Grounded+Dialogue+Dataset+for+Situated+Semantic+Understanding+with+Scene+and+Topic+Transitions)** — *ACL 2023*
+- **[VSTAR: A Video-Grounded Dialogue Dataset for Situated Semantic Understanding with Scene and Topic Transitions](https://doi.org/10.18653/v1/2023.acl-long.276)** — *ACL 2023*
 
-- **[Generative Agents: Interactive Simulacra of Human Behavior](https://scholar.google.com/scholar?q=Generative+Agents%3A+Interactive+Simulacra+of+Human+Behavior)** — *UIST 2023*
+- **[Generative Agents: Interactive Simulacra of Human Behavior](https://doi.org/10.1145/3586183.3606763)** — *UIST 2023*
 
 - **[Beyond Goldfish Memory: Long-Term Open-Domain Conversation](https://doi.org/10.18653/v1/2022.acl-long.356)** — *ACL 2022*
 
-- **[MemoChat: Tuning LLMs to Use Memos for Consistent Long-Range Open-Domain Conversation](https://scholar.google.com/scholar?q=MemoChat%3A+Tuning+LLMs+to+Use+Memos+for+Consistent+Long-Range+Open-Domain+Conversation)** — *arXiv 2023*
+- **[MemoChat: Tuning LLMs to Use Memos for Consistent Long-Range Open-Domain Conversation](https://arxiv.org/abs/2308.08239)** — *arXiv 2023*
 
 - **[MemoryBank: Enhancing Large Language Models with Long-Term Memory](https://doi.org/10.1609/aaai.v38i17.29946)** — *AAAI 2024*
 
-- **[On Memory Construction and Retrieval for Personalized Conversational Agents](https://scholar.google.com/scholar?q=On+Memory+Construction+and+Retrieval+for+Personalized+Conversational+Agents)** — *ICLR 2025*
+- **[On Memory Construction and Retrieval for Personalized Conversational Agents](https://arxiv.org/abs/2502.05589)** — *ICLR 2025*
 
-- **[Evaluating Very Long-Term Conversational Memory of LLM Agents](https://scholar.google.com/scholar?q=Evaluating+Very+Long-Term+Conversational+Memory+of+LLM+Agents)** — *ACL 2024*
+- **[Evaluating Very Long-Term Conversational Memory of LLM Agents](https://doi.org/10.18653/v1/2024.acl-long.747)** — *ACL 2024*
 
 - **[LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory](https://openreview.net/forum?id=Q4Y1cs8hrZ)** — *ICLR 2025*
 
 ### Emotion and Intent Modeling
 
-- **[MMGCN: Multimodal Fusion via Deep Graph Convolution Network for Emotion Recognition in Conversation](https://scholar.google.com/scholar?q=MMGCN%3A+Multimodal+Fusion+via+Deep+Graph+Convolution+Network+for+Emotion+Recognition+in+Conversation)** — *ACL 2021*
+- **[MMGCN: Multimodal Fusion via Deep Graph Convolution Network for Emotion Recognition in Conversation](https://doi.org/10.18653/v1/2021.acl-long.440)** — *ACL 2021*
 
-- **[COGMEN: COntextualized GNN Based Multimodal Emotion RecognitioN](https://scholar.google.com/scholar?q=COGMEN%3A+COntextualized+GNN+Based+Multimodal+Emotion+RecognitioN)** — *NAACL 2022*
+- **[COGMEN: COntextualized GNN Based Multimodal Emotion RecognitioN](https://doi.org/10.18653/v1/2022.naacl-main.306)** — *NAACL 2022*
 
-- **[Emotion-LLaMA: Multimodal Emotion Recognition and Reasoning with Instruction Tuning](https://scholar.google.com/scholar?q=Emotion-LLaMA%3A+Multimodal+Emotion+Recognition+and+Reasoning+with+Instruction+Tuning)** — *NeurIPS 2024*
+- **[Emotion-LLaMA: Multimodal Emotion Recognition and Reasoning with Instruction Tuning](https://doi.org/10.52202/079017-3518)** — *NeurIPS 2024*
 
 - **[SemEval-2024 Task 3: Multimodal Emotion Cause Analysis in Conversations](https://doi.org/10.18653/v1/2024.semeval-1.277)** — *SemEval 2024*
 
@@ -301,9 +301,9 @@ No external papers are cited in the current draft's **Key Concepts** or **Proble
 
 #### Two-Dimensional Representations
 
-- **[Animating Arbitrary Objects via Deep Motion Transfer](https://openaccess.thecvf.com/content_CVPR_2019/html/Siarohin_Animating_Arbitrary_)** — *CVPR 2019*
+- **[Animating Arbitrary Objects via Deep Motion Transfer](https://doi.org/10.1109/CVPR.2019.00248)** — *CVPR 2019*
 
-- **[First Order Motion Model for Image Animation](https://scholar.google.com/scholar?q=First+Order+Motion+Model+for+Image+Animation)** — *NeurIPS 2019*
+- **[First Order Motion Model for Image Animation](https://arxiv.org/abs/2003.00196)** — *NeurIPS 2019*
 
 - **[Thin-Plate Spline Motion Model for Image Animation](https://openaccess.thecvf.com/content/CVPR2022/html/Zhao_Thin-Plate_Spline_Motion_Model_for_Image_Animation_CVPR_2022_paper.html)** — *CVPR 2022*
 
@@ -313,13 +313,13 @@ No external papers are cited in the current draft's **Key Concepts** or **Proble
 
 - **[FaceWarehouse: A 3D Facial Expression Database for Visual Computing](https://doi.org/10.1109/TVCG.2013.249)** — *2014*
 
-- **[Face Transfer with Multilinear Models](https://scholar.google.com/scholar?q=Face+Transfer+with+Multilinear+Models)** — *ACM TOG 2005*
+- **[Face Transfer with Multilinear Models](https://doi.org/10.1145/1185657.1185864)** — *ACM TOG 2005*
 
 - **[Learning a Model of Facial Shape and Expression from 4D Scans](https://doi.org/10.1145/3130800.3130813)** — *ACM TOG 2017*
 
-- **[FaceScape: A Large-Scale High Quality 3D Face Dataset and Detailed Riggable 3D Face Prediction](https://scholar.google.com/scholar?q=FaceScape%3A+A+Large-Scale+High+Quality+3D+Face+Dataset+and+Detailed+Riggable+3D+Face+Prediction)** — *CVPR 2020*
+- **[FaceScape: A Large-Scale High Quality 3D Face Dataset and Detailed Riggable 3D Face Prediction](https://doi.org/10.1109/cvpr42600.2020.00068)** — *CVPR 2020*
 
-- **[Learning an Animatable Detailed 3D Face Model from In-the-Wild Images](https://scholar.google.com/scholar?q=Learning+an+Animatable+Detailed+3D+Face+Model+from+In-the-Wild+Images)** — *ACM TOG 2021*
+- **[Learning an Animatable Detailed 3D Face Model from In-the-Wild Images](https://doi.org/10.1145/3450626.3459936)** — *ACM TOG 2021*
 
 - **[SMPL: A Skinned Multi-Person Linear Model](https://doi.org/10.1145/2816795.2818013)** — *ACM TOG 2015*
 
@@ -331,23 +331,23 @@ No external papers are cited in the current draft's **Key Concepts** or **Proble
 
 - **[CodeTalker: Speech-Driven 3D Facial Animation with Discrete Motion Prior](https://doi.org/10.1109/CVPR52729.2023.01229)** — *CVPR 2023*
 
-- **[T2M-GPT: Generating Human Motion from Textual Descriptions with Discrete Representations](https://scholar.google.com/scholar?q=T2M-GPT%3A+Generating+Human+Motion+from+Textual+Descriptions+with+Discrete+Representations)** — *CVPR 2023*
+- **[T2M-GPT: Generating Human Motion from Textual Descriptions with Discrete Representations](https://doi.org/10.1109/cvpr52729.2023.01415)** — *CVPR 2023*
 
 ### Generative Models
 
 #### Generative Adversarial Models
 
-- **[Generative Adversarial Nets](https://scholar.google.com/scholar?q=Generative+Adversarial+Nets)** — *NeurIPS 2014*
+- **[Generative Adversarial Nets](https://papers.nips.cc/paper_files/paper/2014/hash/f033ed80deb0234979a61f95710dbe25-Abstract.html)** — *NeurIPS 2014*
 
 - **[Image-to-Image Translation with Conditional Adversarial Networks](https://doi.org/10.1109/CVPR.2017.632)** — *2017*
 
-- **[HeadGAN: One-Shot Neural Head Synthesis and Editing](https://openaccess.thecvf.com/content/ICCV2021/html/Doukas_HeadGAN_One-Shot_Neural_Head_)** — *ICCV 2021*
+- **[HeadGAN: One-Shot Neural Head Synthesis and Editing](https://doi.org/10.1109/ICCV48922.2021.01413)** — *ICCV 2021*
 
 - **[Few-Shot Adversarial Learning of Realistic Neural Talking Head Models](https://doi.org/10.1109/ICCV.2019.00955)** — *ICCV 2019*
 
-- **[Speech-Driven Facial Animation Using Cascaded GANs for Learning of Motion and Texture](https://scholar.google.com/scholar?q=Speech-Driven+Facial+Animation+Using+Cascaded+GANs+for+Learning+of+Motion+and+Texture)** — *ECCV 2020*
+- **[Speech-Driven Facial Animation Using Cascaded GANs for Learning of Motion and Texture](https://doi.org/10.1007/978-3-030-58577-8_25)** — *ECCV 2020*
 
-- **[FLNet: Landmark Driven Fetching and Learning Network for Faithful Talking Facial Animation Synthesis](https://scholar.google.com/scholar?q=FLNet%3A+Landmark+Driven+Fetching+and+Learning+Network+for+Faithful+Talking+Facial+Animation+Synthesis)** — *AAAI 2020*
+- **[FLNet: Landmark Driven Fetching and Learning Network for Faithful Talking Facial Animation Synthesis](https://doi.org/10.1609/aaai.v34i07.6717)** — *AAAI 2020*
 
 - **[A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild](https://doi.org/10.1145/3394171.3413532)** — *ACM MM 2020*
 
@@ -355,13 +355,13 @@ No external papers are cited in the current draft's **Key Concepts** or **Proble
 
 #### Latent-Variable Models
 
-- **[Audio2Gestures: Generating Diverse Gestures from Speech Audio with Conditional Variational Autoencoders](https://scholar.google.com/scholar?q=Audio2Gestures%3A+Generating+Diverse+Gestures+from+Speech+Audio+with+Conditional+Variational+Autoencoders)** — *ICCV 2021*
+- **[Audio2Gestures: Generating Diverse Gestures from Speech Audio with Conditional Variational Autoencoders](https://doi.org/10.1109/iccv48922.2021.01110)** — *ICCV 2021*
 
 - **[Learning to Listen: Modeling Non-Deterministic Dyadic Facial Motion](https://arxiv.org/abs/2204.08451)** — *CVPR 2022*
 
 - **[Emotional Listener Portrait: Realistic Listener Motion Simulation in Conversation](https://doi.org/10.1109/ICCV51070.2023.01905)** — *ICCV 2023*
 
-- **[Generating Holistic 3D Human Motion from Speech](https://scholar.google.com/scholar?q=Generating+Holistic+3D+Human+Motion+from+Speech)** — *CVPR 2023*
+- **[Generating Holistic 3D Human Motion from Speech](https://doi.org/10.1109/cvpr52729.2023.00053)** — *CVPR 2023*
 
 #### Autoregressive Models
 
@@ -371,21 +371,21 @@ No external papers are cited in the current draft's **Key Concepts** or **Proble
 
 - **[Learning to Listen: Modeling Non-Deterministic Dyadic Facial Motion](https://arxiv.org/abs/2204.08451)** — *CVPR 2022*
 
-- **[Generating Holistic 3D Human Motion from Speech](https://scholar.google.com/scholar?q=Generating+Holistic+3D+Human+Motion+from+Speech)** — *CVPR 2023*
+- **[Generating Holistic 3D Human Motion from Speech](https://doi.org/10.1109/cvpr52729.2023.00053)** — *CVPR 2023*
 
 #### Diffusion Models
 
-- **[Denoising Diffusion Probabilistic Models](https://scholar.google.com/scholar?q=Denoising+Diffusion+Probabilistic+Models)** — *NeurIPS 2020*
+- **[Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)** — *NeurIPS 2020*
 
 - **[DiffTalk: Crafting Diffusion Models for Generalized Talking Head Synthesis](https://doi.org/10.1109/CVPR52729.2023.00197)** — *CVPR 2023*
 
-- **[Diffused Heads: Diffusion Models Beat GANs on Talking-Face Generation](https://scholar.google.com/scholar?q=Diffused+Heads%3A+Diffusion+Models+Beat+GANs+on+Talking-Face+Generation)** — *WACV 2024*
+- **[Diffused Heads: Diffusion Models Beat GANs on Talking-Face Generation](https://doi.org/10.1109/wacv57701.2024.00502)** — *WACV 2024*
 
-- **[MoDiTalker: Motion-Disentangled Diffusion Model for High-Fidelity Talking Head Generation](https://scholar.google.com/scholar?q=MoDiTalker%3A+Motion-Disentangled+Diffusion+Model+for+High-Fidelity+Talking+Head+Generation)** — *AAAI 2025*
+- **[MoDiTalker: Motion-Disentangled Diffusion Model for High-Fidelity Talking Head Generation](https://doi.org/10.1609/aaai.v39i4.32452)** — *AAAI 2025*
 
-- **[DiffPoseTalk: Speech-Driven Stylistic 3D Facial Animation and Head Pose Generation via Diffusion Models](https://scholar.google.com/scholar?q=DiffPoseTalk%3A+Speech-Driven+Stylistic+3D+Facial+Animation+and+Head+Pose+Generation+via+Diffusion+Models)** — *ACM TOG 2024*
+- **[DiffPoseTalk: Speech-Driven Stylistic 3D Facial Animation and Head Pose Generation via Diffusion Models](https://doi.org/10.1145/3658221)** — *ACM TOG 2024*
 
-- **[DiffSHEG: A Diffusion-Based Approach for Real-Time Speech-Driven Holistic 3D Expression and Gesture Generation](https://openaccess.thecvf.com/content/CVPR2024/html/Chen_DiffSHEG_A_Diffusion-Based_Approach_)** — *CVPR 2024*
+- **[DiffSHEG: A Diffusion-Based Approach for Real-Time Speech-Driven Holistic 3D Expression and Gesture Generation](https://doi.org/10.1109/CVPR52733.2024.00702)** — *CVPR 2024*
 
 - **[DiffuseStyleGesture: Stylized Audio-Driven Co-Speech Gesture Generation with Diffusion Models](https://doi.org/10.24963/ijcai.2023/650)** — *IJCAI 2023*
 
@@ -395,11 +395,11 @@ No external papers are cited in the current draft's **Key Concepts** or **Proble
 
 #### Motion Field Warping and Inpainting
 
-- **[First Order Motion Model for Image Animation](https://scholar.google.com/scholar?q=First+Order+Motion+Model+for+Image+Animation)** — *NeurIPS 2019*
+- **[First Order Motion Model for Image Animation](https://arxiv.org/abs/2003.00196)** — *NeurIPS 2019*
 
 - **[Thin-Plate Spline Motion Model for Image Animation](https://openaccess.thecvf.com/content/CVPR2022/html/Zhao_Thin-Plate_Spline_Motion_Model_for_Image_Animation_CVPR_2022_paper.html)** — *CVPR 2022*
 
-- **[Depth-Aware Generative Adversarial Network for Talking Head Video Generation](https://openaccess.thecvf.com/content/CVPR2022/html/Hong_Depth-Aware_Generative_Adversarial_)** — *CVPR 2022*
+- **[Depth-Aware Generative Adversarial Network for Talking Head Video Generation](https://doi.org/10.1109/CVPR52688.2022.00339)** — *CVPR 2022*
 
 - **[Audio-Visual Face Reenactment](https://openaccess.thecvf.com/content/WACV2023/html/Agarwal_Audio-Visual_Face_Reenactment_WACV_2023_paper.html)** — *WACV 2023*
 
@@ -409,65 +409,65 @@ No external papers are cited in the current draft's **Key Concepts** or **Proble
 
 - **[A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild](https://doi.org/10.1145/3394171.3413532)** — *ACM MM 2020*
 
-- **[Progressive Disentangled Representation Learning for Fine-Grained Controllable Talking Head Synthesis](https://scholar.google.com/scholar?q=Progressive+Disentangled+Representation+Learning+for+Fine-Grained+Controllable+Talking+Head+Synthesis)** — *CVPR 2023*
+- **[Progressive Disentangled Representation Learning for Fine-Grained Controllable Talking Head Synthesis](https://doi.org/10.1109/cvpr52729.2023.01724)** — *CVPR 2023*
 
 - **[Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation](https://doi.org/10.1109/CVPR46437.2021.00416)** — *CVPR 2021*
 
-- **[StyleSync: High-Fidelity Generalized and Personalized Lip Sync in Style-Based Generator](https://scholar.google.com/scholar?q=StyleSync%3A+High-Fidelity+Generalized+and+Personalized+Lip+Sync+in+Style-Based+Generator)** — *CVPR 2023*
+- **[StyleSync: High-Fidelity Generalized and Personalized Lip Sync in Style-Based Generator](https://doi.org/10.1109/cvpr52729.2023.00151)** — *CVPR 2023*
 
-- **[StyleLipSync: Style-based Personalized Lip-sync Video Generation](https://scholar.google.com/scholar?q=StyleLipSync%3A+Style-based+Personalized+Lip-sync+Video+Generation)** — *ICCV 2023*
+- **[StyleLipSync: Style-based Personalized Lip-sync Video Generation](https://doi.org/10.1109/iccv51070.2023.02088)** — *ICCV 2023*
 
 #### Diffusion-Based Video Synthesis
 
 - **[DiffTalk: Crafting Diffusion Models for Generalized Talking Head Synthesis](https://doi.org/10.1109/CVPR52729.2023.00197)** — *CVPR 2023*
 
-- **[HunyuanPortrait: Implicit Condition Control for Enhanced Portrait Animation](https://scholar.google.com/scholar?q=HunyuanPortrait%3A+Implicit+Condition+Control+for+Enhanced+Portrait+Animation)** — *CVPR 2025*
+- **[HunyuanPortrait: Implicit Condition Control for Enhanced Portrait Animation](https://doi.org/10.1109/cvpr52734.2025.01483)** — *CVPR 2025*
 
-- **[Hallo3: Highly Dynamic and Realistic Portrait Image Animation with Video Diffusion Transformer](https://scholar.google.com/scholar?q=Hallo3%3A+Highly+Dynamic+and+Realistic+Portrait+Image+Animation+with+Video+Diffusion+Transformer)** — *CVPR 2025*
+- **[Hallo3: Highly Dynamic and Realistic Portrait Image Animation with Video Diffusion Transformer](https://doi.org/10.1109/cvpr52734.2025.01964)** — *CVPR 2025*
 
-- **[DiTaiListener: Controllable High Fidelity Listener Video Generation with Diffusion](https://scholar.google.com/scholar?q=DiTaiListener%3A+Controllable+High+Fidelity+Listener+Video+Generation+with+Diffusion)** — *ICCV 2025*
+- **[DiTaiListener: Controllable High Fidelity Listener Video Generation with Diffusion](https://doi.org/10.1109/iccv51701.2025.01115)** — *ICCV 2025*
 
 ### Three-Dimensional Avatar Rendering
 
 #### Mesh-Based Rendering
 
-- **[Neural Voice Puppetry: Audio-driven Facial Reenactment](https://scholar.google.com/scholar?q=Neural+Voice+Puppetry%3A+Audio-driven+Facial+Reenactment)** — *ECCV 2020*
+- **[Neural Voice Puppetry: Audio-driven Facial Reenactment](https://doi.org/10.1007/978-3-030-58517-4_42)** — *ECCV 2020*
 
-- **[Neural Head Avatars from Monocular RGB Videos](https://scholar.google.com/scholar?q=Neural+Head+Avatars+from+Monocular+RGB+Videos)** — *CVPR 2022*
+- **[Neural Head Avatars from Monocular RGB Videos](https://doi.org/10.1109/cvpr52688.2022.01810)** — *CVPR 2022*
 
-- **[Learning Dynamic Tetrahedra for High-Quality Talking Head Synthesis](https://scholar.google.com/scholar?q=Learning+Dynamic+Tetrahedra+for+High-Quality+Talking+Head+Synthesis)** — *CVPR 2024*
+- **[Learning Dynamic Tetrahedra for High-Quality Talking Head Synthesis](https://doi.org/10.1109/cvpr52733.2024.00498)** — *CVPR 2024*
 
-- **[Towards High-fidelity 3D Talking Avatar with Personalized Dynamic Texture](https://scholar.google.com/scholar?q=Towards+High-fidelity+3D+Talking+Avatar+with+Personalized+Dynamic+Texture)** — *CVPR 2025*
+- **[Towards High-fidelity 3D Talking Avatar with Personalized Dynamic Texture](https://doi.org/10.1109/cvpr52734.2025.00028)** — *CVPR 2025*
 
 #### Neural Radiance Fields
 
-- **[AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis](https://scholar.google.com/scholar?q=AD-NeRF%3A+Audio+Driven+Neural+Radiance+Fields+for+Talking+Head+Synthesis)** — *ICCV 2021*
+- **[AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis](https://doi.org/10.1109/iccv48922.2021.00573)** — *ICCV 2021*
 
-- **[GeneFace: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis](https://scholar.google.com/scholar?q=GeneFace%3A+Generalized+and+High-Fidelity+Audio-Driven+3D+Talking+Face+Synthesis)** — *ICLR 2023*
+- **[GeneFace: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis](https://arxiv.org/abs/2301.13430)** — *ICLR 2023*
 
-- **[One-Shot High-Fidelity Talking-Head Synthesis with Deformable Neural Radiance Field](https://scholar.google.com/scholar?q=One-Shot+High-Fidelity+Talking-Head+Synthesis+with+Deformable+Neural+Radiance+Field)** — *CVPR 2023*
+- **[One-Shot High-Fidelity Talking-Head Synthesis with Deformable Neural Radiance Field](https://doi.org/10.1109/cvpr52729.2023.01723)** — *CVPR 2023*
 
-- **[Efficient Region-Aware Neural Radiance Fields for High-Fidelity Talking Portrait Synthesis](https://scholar.google.com/scholar?q=Efficient+Region-Aware+Neural+Radiance+Fields+for+High-Fidelity+Talking+Portrait+Synthesis)** — *ICCV 2023*
+- **[Efficient Region-Aware Neural Radiance Fields for High-Fidelity Talking Portrait Synthesis](https://doi.org/10.1109/iccv51070.2023.00696)** — *ICCV 2023*
 
-- **[SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis](https://scholar.google.com/scholar?q=SyncTalk%3A+The+Devil+is+in+the+Synchronization+for+Talking+Head+Synthesis)** — *CVPR 2024*
+- **[SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis](https://doi.org/10.1109/cvpr52733.2024.00070)** — *CVPR 2024*
 
-- **[S3D-NeRF: Single-Shot Speech-Driven Neural Radiance Field for High Fidelity Talking Head Synthesis](https://scholar.google.com/scholar?q=S3D-NeRF%3A+Single-Shot+Speech-Driven+Neural+Radiance+Field+for+High+Fidelity+Talking+Head+Synthesis)** — *ECCV 2024*
+- **[S3D-NeRF: Single-Shot Speech-Driven Neural Radiance Field for High Fidelity Talking Head Synthesis](https://doi.org/10.1007/978-3-031-72684-2_21)** — *ECCV 2024*
 
 #### 3D Gaussian Splatting
 
 - **[GaussianTalker: Real-Time Talking Head Synthesis with 3D Gaussian Splatting](https://doi.org/10.1145/3664647.3681627)** — *ACM MM 2024*
 
-- **[GaussianSpeech: Audio-Driven Personalized 3D Gaussian Avatars](https://scholar.google.com/scholar?q=GaussianSpeech%3A+Audio-Driven+Personalized+3D+Gaussian+Avatars)** — *ICCV 2025*
+- **[GaussianSpeech: Audio-Driven Personalized 3D Gaussian Avatars](https://doi.org/10.1109/iccv51701.2025.01214)** — *ICCV 2025*
 
-- **[DGTalker: Disentangled Generative Latent Space Learning for Audio-Driven Gaussian Talking Heads](https://scholar.google.com/scholar?q=DGTalker%3A+Disentangled+Generative+Latent+Space+Learning+for+Audio-Driven+Gaussian+Talking+Heads)** — *ICCV 2025*
+- **[DGTalker: Disentangled Generative Latent Space Learning for Audio-Driven Gaussian Talking Heads](https://doi.org/10.1109/iccv51701.2025.01031)** — *ICCV 2025*
 
-- **[InsTaG: Learning Personalized 3D Talking Head from Few-Second Video](https://scholar.google.com/scholar?q=InsTaG%3A+Learning+Personalized+3D+Talking+Head+from+Few-Second+Video)** — *CVPR 2025*
+- **[InsTaG: Learning Personalized 3D Talking Head from Few-Second Video](https://doi.org/10.1109/cvpr52734.2025.00999)** — *CVPR 2025*
 
-- **[GGTalker: Talking Head Systhesis with Generalizable Gaussian Priors and Identity-Specific Adaptation](https://scholar.google.com/scholar?q=GGTalker%3A+Talking+Head+Systhesis+with+Generalizable+Gaussian+Priors+and+Identity-Specific+Adaptation)** — *ICCV 2025*
+- **[GGTalker: Talking Head Systhesis with Generalizable Gaussian Priors and Identity-Specific Adaptation](https://doi.org/10.1109/iccv51701.2025.00942)** — *ICCV 2025*
 
-- **[Monocular and Generalizable Gaussian Talking Head Animation](https://scholar.google.com/scholar?q=Monocular+and+Generalizable+Gaussian+Talking+Head+Animation)** — *CVPR 2025*
+- **[Monocular and Generalizable Gaussian Talking Head Animation](https://doi.org/10.1109/cvpr52734.2025.00519)** — *CVPR 2025*
 
-- **[TaoAvatar: Real-Time Lifelike Full-Body Talking Avatars for Augmented Reality via 3D Gaussian Splatting](https://scholar.google.com/scholar?q=TaoAvatar%3A+Real-Time+Lifelike+Full-Body+Talking+Avatars+for+Augmented+Reality+via+3D+Gaussian+Splatting)** — *CVPR 2025*
+- **[TaoAvatar: Real-Time Lifelike Full-Body Talking Avatars for Augmented Reality via 3D Gaussian Splatting](https://doi.org/10.1109/cvpr52734.2025.01002)** — *CVPR 2025*
 
 ---
 
@@ -503,7 +503,7 @@ No external papers are cited in the current draft's **Key Concepts** or **Proble
 
 - **[REACT 2025: The Third Multiple Appropriate Facial Reaction Generation Challenge](https://doi.org/10.1145/3746027.3762244)** — *ACM MM 2025*
 
-- **[Full-Duplex-Bench: A Benchmark to Evaluate Full-Duplex Spoken Dialogue Models on Turn-taking Capabilities](https://scholar.google.com/scholar?q=Full-Duplex-Bench%3A+A+Benchmark+to+Evaluate+Full-Duplex+Spoken+Dialogue+Models+on+Turn-taking+Capabilities)** — *ASRU 2025*
+- **[Full-Duplex-Bench: A Benchmark to Evaluate Full-Duplex Spoken Dialogue Models on Turn-taking Capabilities](https://doi.org/10.1109/asru65441.2025.11433838)** — *ASRU 2025*
 
 - **[VideoFDB: Evaluating Full-Duplex Vision-Speech Capabilities in Conversational Agents](https://arxiv.org/abs/2605.30256)** — *arXiv 2026*
 
@@ -513,13 +513,13 @@ No external papers are cited in the current draft's **Key Concepts** or **Proble
 
 - **[Image Quality Assessment: From Error Visibility to Structural Similarity](https://doi.org/10.1109/TIP.2003.819861)** — *IEEE TIP 2004*
 
-- **[The Unreasonable Effectiveness of Deep Features as a Perceptual Metric](https://scholar.google.com/scholar?q=The+Unreasonable+Effectiveness+of+Deep+Features+as+a+Perceptual+Metric)** — *CVPR 2018*
+- **[The Unreasonable Effectiveness of Deep Features as a Perceptual Metric](https://doi.org/10.1109/cvpr.2018.00068)** — *CVPR 2018*
 
-- **[GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium](https://scholar.google.com/scholar?q=GANs+Trained+by+a+Two+Time-Scale+Update+Rule+Converge+to+a+Local+Nash+Equilibrium)** — *NeurIPS 2017*
+- **[GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium](https://arxiv.org/abs/1706.08500)** — *NeurIPS 2017*
 
 - **[Towards Accurate Generative Models of Video: A New Metric & Challenges](https://arxiv.org/abs/1812.01717)** — *arXiv 2018*
 
-- **[Out of Time: Automated Lip Sync in the Wild](https://scholar.google.com/scholar?q=Out+of+Time%3A+Automated+Lip+Sync+in+the+Wild)** — *ACCV Workshop 2016*
+- **[Out of Time: Automated Lip Sync in the Wild](https://doi.org/10.1007/978-3-319-54427-4_19)** — *ACCV Workshop 2016*
 
 - **[A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild](https://doi.org/10.1145/3394171.3413532)** — *ACM MM 2020*
 
@@ -531,11 +531,11 @@ No external papers are cited in the current draft's **Key Concepts** or **Proble
 
 - **[CustomListener: Text-guided Responsive Interaction for User-friendly Listening Head Generation](https://arxiv.org/abs/2403.00274)** — *CVPR 2024*
 
-- **[LLM-driven Multimodal and Multi-Identity Listening Head Generation](https://scholar.google.com/scholar?q=LLM-driven+Multimodal+and+Multi-Identity+Listening+Head+Generation)** — *CVPR 2025*
+- **[LLM-driven Multimodal and Multi-Identity Listening Head Generation](https://doi.org/10.1109/cvpr52734.2025.00996)** — *CVPR 2025*
 
-- **[Beyond Turn-Based Interfaces: Synchronous LLMs as Full-Duplex Dialogue Agents](https://scholar.google.com/scholar?q=Beyond+Turn-Based+Interfaces%3A+Synchronous+LLMs+as+Full-Duplex+Dialogue+Agents)** — *EMNLP 2024*
+- **[Beyond Turn-Based Interfaces: Synchronous LLMs as Full-Duplex Dialogue Agents](https://doi.org/10.18653/v1/2024.emnlp-main.1192)** — *EMNLP 2024*
 
-- **[Full-Duplex-Bench: A Benchmark to Evaluate Full-Duplex Spoken Dialogue Models on Turn-taking Capabilities](https://scholar.google.com/scholar?q=Full-Duplex-Bench%3A+A+Benchmark+to+Evaluate+Full-Duplex+Spoken+Dialogue+Models+on+Turn-taking+Capabilities)** — *arXiv 2025*
+- **[Full-Duplex-Bench: A Benchmark to Evaluate Full-Duplex Spoken Dialogue Models on Turn-taking Capabilities](https://doi.org/10.1109/asru65441.2025.11433838)** — *arXiv 2025*
 
 ### User Experience
 
@@ -543,7 +543,7 @@ No external papers are cited in the current draft's **Key Concepts** or **Proble
 
 - **[CustomListener: Text-guided Responsive Interaction for User-friendly Listening Head Generation](https://arxiv.org/abs/2403.00274)** — *CVPR 2024*
 
-- **[Beyond Turn-Based Interfaces: Synchronous LLMs as Full-Duplex Dialogue Agents](https://scholar.google.com/scholar?q=Beyond+Turn-Based+Interfaces%3A+Synchronous+LLMs+as+Full-Duplex+Dialogue+Agents)** — *EMNLP 2024*
+- **[Beyond Turn-Based Interfaces: Synchronous LLMs as Full-Duplex Dialogue Agents](https://doi.org/10.18653/v1/2024.emnlp-main.1192)** — *EMNLP 2024*
 
 ---
 
