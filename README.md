@@ -191,6 +191,12 @@ No external papers are cited in the current draft's **Key Concepts** or **Proble
 
 - **[Robust Speech Recognition via Large-Scale Weak Supervision](https://arxiv.org/abs/2212.04356)** — *2023*
 
+- **[AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head](https://ojs.aaai.org/index.php/AAAI/article/view/30570)** — *AAAI 2024 (Demo)*
+
+- **[HyPoradise: An Open Baseline for Generative Speech Recognition with Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2023/hash/6492267465a7ac507be1f9fd1174e78d-Abstract-Datasets_and_Benchmarks.html)** — *NeurIPS 2023*
+
+- **[SD-Eval: A Benchmark Dataset for Spoken Dialogue Understanding Beyond Words](https://papers.nips.cc/paper_files/paper/2024/hash/681fe4ec554beabdc9c84a1780cd5a8a-Abstract-Datasets_and_Benchmarks_Track.html)** — *NeurIPS 2024*
+
 - **[wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations](https://arxiv.org/abs/2006.11477)** — *NeurIPS 2020*
 
 - **[HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units](https://doi.org/10.1109/TASLP.2021.3122291)** — *IEEE/ACM TASLP 2021*
