@@ -1,4 +1,4 @@
-# Awesome Interactive Conversational Digital Humans
+# Interactive Visual Embodiment for Conversational Digital Humans
 
 A curated list of papers and resources for the survey **Interactive Visual Embodiment for Conversational Digital Humans: A Survey**.
 
