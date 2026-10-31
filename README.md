@@ -82,6 +82,18 @@ A curated list of papers and resources for the survey **Interactive Visual Embod
 
 - **[Human Motion Generation: A Survey](https://ieeexplore.ieee.org/document/10313063/)** — *IEEE TPAMI 2024*
 
+- **[Deep Learning for Visual Speech Analysis: A Survey](https://doi.org/10.1109/TPAMI.2024.3376710)** — *IEEE TPAMI 2024*
+
+- **[Deepfake Generation and Detection: A Benchmark and Survey](https://doi.org/10.1145/3801962)** — *ACM Computing Surveys 2026*
+
+- **[Audiovisual Speech Synthesis: An Overview of the State-of-the-Art](https://doi.org/10.1016/j.specom.2014.11.001)** — *Speech Communication 2015*
+
+- **[Face Generation and Editing With StyleGAN: A Survey](https://doi.org/10.1109/TPAMI.2024.3350004)** — *IEEE TPAMI 2024*
+
+- **[Generative Adversarial Networks for Face Generation: A Survey](https://doi.org/10.1145/3527850)** — *ACM Computing Surveys 2023*
+
+- **[3D Morphable Face Models—Past, Present, and Future](https://doi.org/10.1145/3395208)** — *ACM TOG 2020*
+
 ---
 
 # Background
