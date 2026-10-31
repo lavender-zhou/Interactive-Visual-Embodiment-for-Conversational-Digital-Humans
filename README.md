@@ -94,6 +94,20 @@ A curated list of papers and resources for the survey **Interactive Visual Embod
 
 - **[3D Morphable Face Models—Past, Present, and Future](https://doi.org/10.1145/3395208)** — *ACM TOG 2020*
 
+- **[Conversational Agents in Augmented Reality: A Systematic Review](https://doi.org/10.1145/3815590)** — *ACM Transactions on Interactive Intelligent Systems 2026*
+
+- **[Examining the Use of Nonverbal Communication in Virtual Agents](https://doi.org/10.1080/10447318.2021.1898851)** — *International Journal of Human–Computer Interaction 2021*
+
+- **[Empathy in Virtual Agents and Robots: A Survey](https://doi.org/10.1145/2912150)** — *ACM Transactions on Interactive Intelligent Systems 2017*
+
+- **[The Effect of Design Features on Relationship Quality with Embodied Conversational Agents: A Systematic Review](https://doi.org/10.1007/s12369-020-00680-7)** — *International Journal of Social Robotics 2020*
+
+- **[AI-powered avatar assistants: a systematic literature review of tools, application domains and challenges](https://doi.org/10.1007/s12652-026-05052-z)** — *Journal of Ambient Intelligence and Humanized Computing 2026*
+
+- **[Computer-Controlled Virtual Humans in Patient-Facing Systems: Systematic Review and Meta-Analysis](https://www.jmir.org/2020/7/e18839/)** — *Journal of Medical Internet Research 2020*
+
+- **[Embodied Conversational Agents for Chronic Diseases: Scoping Review](https://www.jmir.org/2024/1/e47134/)** — *Journal of Medical Internet Research 2024*
+
 ---
 
 # Background
