@@ -60,7 +60,7 @@ A curated list of papers and resources for the survey **Interactive Visual Embod
 
 - **[Exploring the Frontiers of LLMs in Psychological Applications: A Comprehensive Review](https://link.springer.com/article/10.1007/s10462-025-11297-5)** — *Artificial Intelligence Review 2025*
 
-- **[A Survey of Talking Head Synthesis Techniques: Portrait Generation, Driving Mechanisms, and Editing](https://dl.acm.org/doi/10.1145/3785656)** — *2026*
+- **[A Survey of Talking Head Synthesis Techniques: Portrait Generation, Driving Mechanisms, and Editing](https://dl.acm.org/doi/10.1145/3785656)** — *ACM Computing Surveys(CSUR) 2026*
 
 - **[A survey on generative nonverbal facial behavior for highly realistic embodied agents](https://link.springer.com/article/10.1007/s11370-025-00674-2)** — *Intelligent Service Robotics 2026*
 
