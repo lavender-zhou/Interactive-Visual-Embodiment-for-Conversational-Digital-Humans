@@ -2,7 +2,6 @@
 
 A curated list of papers and resources for the survey **Interactive Visual Embodiment for Conversational Digital Humans: A Survey**.
 
-> Papers follow the citation locations in the supplied survey draft, including its tables. A paper may appear in multiple sections. Reference numbers [80] and [81] identify the same paper and are consolidated within each section. Links prefer official proceedings or publisher landing pages; arXiv is used for preprints or where an official page could not be established.
 
 ## Contents
 
