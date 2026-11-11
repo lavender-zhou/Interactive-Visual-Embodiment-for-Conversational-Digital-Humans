@@ -240,6 +240,10 @@ No external papers are cited in the current draft’s Key Concepts or Problem Fo
 
 ### Speech and Language Signals
 
+- **[openSMILE: The Munich Versatile and Fast Open-Source Audio Feature Extractor](https://dl.acm.org/doi/10.1145/1873951.1874246)** — *ACM Multimedia（ACM MM）2010*
+
+- **[Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks](https://dl.acm.org/doi/10.1145/1143844.1143891)** — *ICML 2006*
+
 - **[SD-Eval: A Benchmark Dataset for Spoken Dialogue Understanding Beyond Words](https://proceedings.neurips.cc/paper_files/paper/2024/hash/681fe4ec554beabdc9c84a1780cd5a8a-Abstract-Datasets_and_Benchmarks_Track.html)** — *NeurIPS 2024*
 
 - **[wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations](https://proceedings.neurips.cc/paper_files/paper/2020/hash/92d1e1eb1cd6f9fba3227870bb6d7f07-Abstract.html)** — *NeurIPS 2020*
@@ -269,6 +273,7 @@ No external papers are cited in the current draft’s Key Concepts or Problem Fo
 - **[SALMONN: Towards Generic Hearing Abilities for Large Language Models](https://proceedings.iclr.cc/paper_files/paper/2024/hash/476ab8f369e489c04187ba84f68cfa68-Abstract-Conference.html)** — *ICLR 2024*
 
 - **[AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling](https://aclanthology.org/2024.acl-long.521/)** — *ACL 2024*
+
 
 ---
 
@@ -537,6 +542,8 @@ No external papers are cited in the current draft’s Key Concepts or Problem Fo
 - **[One-Shot High-Fidelity Talking-Head Synthesis With Deformable Neural Radiance Field](https://openaccess.thecvf.com/content/CVPR2023/html/Li_One-Shot_High-Fidelity_Talking-Head_Synthesis_With_Deformable_Neural_Radiance_Field_CVPR_2023_paper.html)** — *CVPR 2023*
 
 - **[SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis](https://openaccess.thecvf.com/content/CVPR2024/html/Peng_SyncTalk_The_Devil_is_in_the_Synchronization_for_Talking_Head_CVPR_2024_paper.html)** — *CVPR 2024*
+
+- **[Learning Dynamic Facial Radiance Fields for Few-Shot Talking Head Synthesis](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/2373_ECCV_2022_paper.php)** — *ECCV 2022*
 
 - **[GeneFace: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis](https://arxiv.org/abs/2301.13430)** — *ICLR 2023*
 
