@@ -60,7 +60,7 @@ A curated list of papers and resources for the survey **Interactive Visual Embod
 
 - **[Exploring the Frontiers of LLMs in Psychological Applications: A Comprehensive Review](https://link.springer.com/article/10.1007/s10462-025-11297-5)** — *Artificial Intelligence Review 2025*
 
-- **[A Survey of Talking Head Synthesis Techniques: Portrait Generation, Driving Mechanisms, and Editing](https://dl.acm.org/doi/10.1145/3785656)** — *ACM Computing Surveys(CSUR) 2026*
+- **[A Survey of Talking Head Synthesis Techniques: Portrait Generation, Driving Mechanisms, and Editing](https://dl.acm.org/doi/10.1145/3785656)** — *ACM Computing Surveys (CSUR) 2026*
 
 - **[A survey on generative nonverbal facial behavior for highly realistic embodied agents](https://link.springer.com/article/10.1007/s11370-025-00674-2)** — *Intelligent Service Robotics 2026*
 
@@ -68,7 +68,7 @@ A curated list of papers and resources for the survey **Interactive Visual Embod
 
 - **[A Review of Eye Gaze in Virtual Agents, Social Robotics and HCI: Behaviour Generation, User Interaction and Perception](https://onlinelibrary.wiley.com/doi/10.1111/cgf.12603)** — *Computer Graphics Forum 2015*
 
-- **[Deep Person Generation: A Survey from the Perspective of Face, Pose, and Cloth Synthesis](https://dl.acm.org/doi/10.1145/3575656)** — *2023*
+- **[Deep Person Generation: A Survey from the Perspective of Face, Pose, and Cloth Synthesis](https://dl.acm.org/doi/10.1145/3575656)** — *ACM Computing Surveys（CSUR）2023*
 
 - **[Talking Human Face Generation: A Survey](https://doi.org/10.1016/j.eswa.2023.119678)** — *Expert Systems with Applications 2023*
 
