@@ -51,7 +51,6 @@ A curated list of papers and resources for the survey **Interactive Visual Embod
 
 # Introduction
 
-- **[Virtual Human: A Comprehensive Survey on Academic and Applications](https://ieeexplore.ieee.org/document/10305172/)** — *IEEE Access 2023*
 
 - **[Using Large Language Models in Psychology](https://www.nature.com/articles/s44159-023-00241-5)** — *Nature Reviews Psychology 2023*
 
