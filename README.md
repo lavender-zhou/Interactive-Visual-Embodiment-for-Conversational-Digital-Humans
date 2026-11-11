@@ -188,7 +188,7 @@ No external papers are cited in the current draft’s Key Concepts or Problem Fo
 
 - **[DualTalk: Dual-Speaker Interaction for 3D Talking Head Conversations](https://openaccess.thecvf.com/content/CVPR2025/html/Peng_DualTalk_Dual-Speaker_Interaction_for_3D_Talking_Head_Conversations_CVPR_2025_paper.html)** — *CVPR 2025*
 
-- **[Towards Flexible, Natural, Efficient Interaction for Conversational Talking Face Generation](https://arxiv.org/abs/2606.31088)** — *arXiv 2026*
+- **[Towards Flexible, Natural, Efficient Interaction for Conversational Talking Face Generation](https://arxiv.org/abs/2606.31088)** — *ECCV 2026*
 
 - **[Interactive Conversational Head Generation](https://ieeexplore.ieee.org/document/10979678/)** — *IEEE TPAMI 2025*
 
@@ -198,7 +198,7 @@ No external papers are cited in the current draft’s Key Concepts or Problem Fo
 
 ### Turn-Taking and Interruption
 
-- **[TurnGPT: a Transformer-based Language Model for Predicting Turn-taking in Spoken Dialog](https://aclanthology.org/2020.findings-emnlp.268/)** — *Findings of ACL 2020*
+- **[TurnGPT: a Transformer-based Language Model for Predicting Turn-taking in Spoken Dialog](https://aclanthology.org/2020.findings-emnlp.268/)** — *Findings of EMNLP 2020*
 
 - **[Voice Activity Projection: Self-supervised Learning of Turn-taking Events](https://www.isca-archive.org/interspeech_2022/ekstedt22_interspeech.html)** — *INTERSPEECH 2022*
 
@@ -210,7 +210,7 @@ No external papers are cited in the current draft’s Key Concepts or Problem Fo
 
 ### Conversational Continuity and Context Modeling
 
-- **[Towards Seamless Interaction: Causal Turn-Level Modeling of Interactive 3D Conversational Head Dynamics](https://arxiv.org/abs/2512.15340)** — *arXiv 2026*
+- **[Towards Seamless Interaction: Causal Turn-Level Modeling of Interactive 3D Conversational Head Dynamics](https://arxiv.org/abs/2512.15340)** — *arXiv 2025*
 
 - **[ECHO: Towards Emotionally Appropriate and Contextually Aware Interactive Head Generation](https://arxiv.org/abs/2603.17427)** — *arXiv 2026*
 
@@ -268,7 +268,7 @@ No external papers are cited in the current draft’s Key Concepts or Problem Fo
 
 - **[Let’s Go Real Talk: Spoken Dialogue Model for Face-to-Face Conversation](https://aclanthology.org/2024.acl-long.860/)** — *ACL 2024*
 
-- **[Robust Speech Recognition via Large-Scale Weak Supervision](https://proceedings.mlr.press/v202/radford23a.html)** — *2023*
+- **[Robust Speech Recognition via Large-Scale Weak Supervision](https://proceedings.mlr.press/v202/radford23a.html)** — *ICML 2023*
 
 - **[SALMONN: Towards Generic Hearing Abilities for Large Language Models](https://proceedings.iclr.cc/paper_files/paper/2024/hash/476ab8f369e489c04187ba84f68cfa68-Abstract-Conference.html)** — *ICLR 2024*
 
@@ -329,7 +329,7 @@ No external papers are cited in the current draft’s Key Concepts or Problem Fo
 
 - **[Evaluating Very Long-Term Conversational Memory of LLM Agents](https://aclanthology.org/2024.acl-long.747/)** — *ACL 2024*
 
-- **[On Memory Construction and Retrieval for Personalized Conversational Agents](https://arxiv.org/abs/2502.05589)** — *ICLR 2025*
+- **[SeCom: On Memory Construction and Retrieval for Personalized Conversational Agents](https://arxiv.org/abs/2502.05589)** — *ICLR 2025*
 
 - **[Generative Agents: Interactive Simulacra of Human Behavior](https://dl.acm.org/doi/10.1145/3586183.3606763)** — *UIST 2023*
 
@@ -377,7 +377,7 @@ No external papers are cited in the current draft’s Key Concepts or Problem Fo
 
 - **[A morphable model for the synthesis of 3D faces](https://dl.acm.org/doi/10.1145/311535.311556)** — *SIGGRAPH 1999*
 
-- **[FaceWarehouse: A 3D Facial Expression Database for Visual Computing](http://ieeexplore.ieee.org/document/6654137/)** — *2014*
+- **[FaceWarehouse: A 3D Facial Expression Database for Visual Computing](http://ieeexplore.ieee.org/document/6654137/)** — *IEEE TVCG 2014*
 
 - **[Learning an animatable detailed 3D face model from in-the-wild images](https://dl.acm.org/doi/10.1145/3450626.3459936)** — *ACM TOG 2021*
 
@@ -553,7 +553,7 @@ No external papers are cited in the current draft’s Key Concepts or Problem Fo
 
 ### Predictive Interaction Control
 
-- **[TurnGPT: a Transformer-based Language Model for Predicting Turn-taking in Spoken Dialog](https://aclanthology.org/2020.findings-emnlp.268/)** — *Findings of ACL 2020*
+- **[TurnGPT: a Transformer-based Language Model for Predicting Turn-taking in Spoken Dialog](https://aclanthology.org/2020.findings-emnlp.268/)** — *Findings of EMNLP 2020*
 
 - **[Predicting Turn-Taking and Backchannel in Human-Machine Conversations Using Linguistic, Acoustic, and Visual Signals](https://aclanthology.org/2025.acl-long.743/)** — *ACL 2025*
 
@@ -587,7 +587,7 @@ No external papers are cited in the current draft’s Key Concepts or Problem Fo
 
 - **[LRS3-TED: A Large-Scale Dataset for Visual Speech Recognition](https://arxiv.org/abs/1809.00496)** — *arXiv 2018*
 
-- **[TalkVid: A Large-Scale Diversified Dataset for Audio-Driven Talking Head Synthesis](https://arxiv.org/abs/2508.13618)** — *CVPR 2026*
+- **[TalkVid: A Large-Scale Diversified Dataset for Audio-Driven Talking Head Synthesis](https://arxiv.org/abs/2508.13618)** — *CVPR 2026 Findings*
 
 - **[VoxCeleb2: Deep Speaker Recognition](https://www.isca-archive.org/interspeech_2018/chung18b_interspeech.html)** — *INTERSPEECH 2018*
 
@@ -677,7 +677,7 @@ No external papers are cited in the current draft’s Key Concepts or Problem Fo
 
 - **[Sonic: Shifting Focus to Global Audio Perception in Portrait Animation](https://openaccess.thecvf.com/content/CVPR2025/html/Ji_Sonic_Shifting_Focus_to_Global_Audio_Perception_in_Portrait_Animation_CVPR_2025_paper.html)** — *CVPR 2025*
 
-- **[EAMM: One-Shot Emotional Talking Face via Audio-Based Emotion-Aware Motion Model](https://dl.acm.org/doi/10.1145/3528233.3530745)** — *2022*
+- **[EAMM: One-Shot Emotional Talking Face via Audio-Based Emotion-Aware Motion Model](https://dl.acm.org/doi/10.1145/3528233.3530745)** — *SIGGRAPH 2022*
 
 - **[Realistic One-Shot Mesh-Based Head Avatars](https://link.springer.com/chapter/10.1007/978-3-031-20086-1_20?error=cookies_not_supported&code=48dd12a6-0f2b-4c4c-82db-f5cc2833e459)** — *ECCV 2022*
 
@@ -685,7 +685,7 @@ No external papers are cited in the current draft’s Key Concepts or Problem Fo
 
 - **[FLOAT: Generative Motion Latent Flow Matching for Audio-driven Talking Portrait](https://openaccess.thecvf.com/content/ICCV2025/html/Ki_FLOAT_Generative_Motion_Latent_Flow_Matching_for_Audio-driven_Talking_Portrait_ICCV_2025_paper.html)** — *ICCV 2025*
 
-- **[All You Need Is Your Voice: Emotional Face Representation with Audio Perspective for Emotional Talking Face Generation](https://link.springer.com/chapter/10.1007/978-3-031-73039-9_20)** — *2024*
+- **[All You Need Is Your Voice: Emotional Face Representation with Audio Perspective for Emotional Talking Face Generation](https://link.springer.com/chapter/10.1007/978-3-031-73039-9_20)** — *ECCV 2024*
 
 - **[TalkingGaussian: Structure-Persistent 3D Talking Head Synthesis via Gaussian Splatting](https://link.springer.com/chapter/10.1007/978-3-031-72684-2_8?error=cookies_not_supported&code=e7ba1cf6-7294-4516-b924-21956cd3aa66)** — *ECCV 2024*
 
@@ -717,7 +717,7 @@ No external papers are cited in the current draft’s Key Concepts or Problem Fo
 
 - **[Emotional Listener Portrait: Neural Listener Head Generation with Emotion](https://openaccess.thecvf.com/content/ICCV2023/html/Song_Emotional_Listener_Portrait_Neural_Listener_Head_Generation_with_Emotion_ICCV_2023_paper.html)** — *ICCV 2023*
 
-- **[EDTalk: Efficient Disentanglement for Emotional Talking Head Synthesis](https://link.springer.com/chapter/10.1007/978-3-031-72658-3_23)** — *2024*
+- **[EDTalk: Efficient Disentanglement for Emotional Talking Head Synthesis](https://link.springer.com/chapter/10.1007/978-3-031-72658-3_23)** — *ECCV 2024*
 
 - **[DIM: Dyadic Interaction Modeling for Social Behavior Generation](https://link.springer.com/chapter/10.1007/978-3-031-72913-3_27)** — *ECCV 2024*
 
@@ -735,7 +735,7 @@ No external papers are cited in the current draft’s Key Concepts or Problem Fo
 
 - **[High-Fidelity Generalized Emotional Talking Face Generation With Multi-Modal Emotion Space Learning](https://openaccess.thecvf.com/content/CVPR2023/html/Xu_High-Fidelity_Generalized_Emotional_Talking_Face_Generation_With_Multi-Modal_Emotion_Space_CVPR_2023_paper.html)** — *CVPR 2023*
 
-- **[Audiodriven Talking Face Generation with Stabilized Synchronization Loss](https://link.springer.com/chapter/10.1007/978-3-031-72655-2_24)** — *2024*
+- **[Audiodriven Talking Face Generation with Stabilized Synchronization Loss](https://link.springer.com/chapter/10.1007/978-3-031-72655-2_24)** — *ECCV 2024*
 
 - **[SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_SadTalker_Learning_Realistic_3D_Motion_Coefficients_for_Stylized_Audio-Driven_Single_CVPR_2023_paper.html)** — *CVPR 2023*
 
@@ -799,7 +799,7 @@ No external papers are cited in the current draft’s Key Concepts or Problem Fo
 
 ### Long-term Memory and Persona
 
-- **[BRIDGE: Triangular Fixed-Point Refinement for Long-Horizon Persona Consistency](https://proceedings.mlr.press/v306/jiang26aw.html)** — *2026*
+- **[BRIDGE: Triangular Fixed-Point Refinement for Long-Horizon Persona Consistency](https://proceedings.mlr.press/v306/jiang26aw.html)** — *ICML 2026*
 
 - **[MimicTalker: A Multimodal Interactive and Memory-Enhanced Framework for Real-Time Dyadic 3D Head Generation](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_MimicTalker_A_Multimodal_Interactive_and_Memory-Enhanced_Framework_for_Real-Time_Dyadic_CVPR_2026_paper.html)** — *CVPR 2026*
 
@@ -807,7 +807,7 @@ No external papers are cited in the current draft’s Key Concepts or Problem Fo
 
 ### Holistic Multi-party Embodiment
 
-- **[PolySLGen: Online Multimodal SpeakingListening Reaction Generation in Polyadic Interaction](https://arxiv.org/abs/2604.08125)** — *CVPR 2026*
+- **[PolySLGen: Online Multimodal Speaking-Listening Reaction Generation in Polyadic Interaction](https://arxiv.org/abs/2604.08125)** — *CVPR 2026*
 
 ---
 
