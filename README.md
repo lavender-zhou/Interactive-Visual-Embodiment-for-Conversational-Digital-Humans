@@ -72,7 +72,7 @@ A curated list of papers and resources for the survey **Interactive Visual Embod
 
 - **[Talking Human Face Generation: A Survey](https://doi.org/10.1016/j.eswa.2023.119678)** — *Expert Systems with Applications 2023*
 
-- **[A Survey on Large Language Model Based Autonomous Agents](https://link.springer.com/article/10.1007/s11704-024-40231-1?error=cookies_not_supported&code=e4d124e8-5e69-4873-8a84-b17caf0549a5)** — *Frontiers of Computer Science 2024*
+- **[A Survey on Large Language Model Based Autonomous Agents](https://link.springer.com/article/10.1007/s11704-024-40231-1)** — *Frontiers of Computer Science 2024*
 
 - **[The interaction design of 3D virtual humans: A survey](https://doi.org/10.1016/j.cosrev.2024.100653)** — *Computer Science Review 2024*
 
@@ -120,7 +120,7 @@ No external papers are cited in the current draft’s Key Concepts or Problem Fo
 
 - **[FaceFormer: Speech-Driven 3D Facial Animation With Transformers](https://openaccess.thecvf.com/content/CVPR2022/html/Fan_FaceFormer_Speech-Driven_3D_Facial_Animation_With_Transformers_CVPR_2022_paper.html)** — *CVPR 2022*
 
-- **[You Said That?: Synthesising Talking Faces from Audio](https://link.springer.com/article/10.1007/s11263-019-01150-y?error=cookies_not_supported&code=da7d8ef2-4ced-48e5-b038-df14bfdb977d)** — *IJCV 2019*
+- **[You Said That?: Synthesising Talking Faces from Audio](https://link.springer.com/article/10.1007/s11263-019-01150-y)** — *IJCV 2019*
 
 - **[ScanTalk: 3D Talking Heads from Unregistered Scans](https://link.springer.com/chapter/10.1007/978-3-031-73397-0_2)** — *ECCV 2024*
 
@@ -359,7 +359,7 @@ No external papers are cited in the current draft’s Key Concepts or Problem Fo
 
 - **[COGMEN: COntextualized GNN Based Multimodal Emotion RecognitioN](https://aclanthology.org/2022.naacl-main.306/)** — *NAACL 2022*
 
-- **[Human–AI collaboration enables more empathic conversations in text-based peer-to-peer mental health support](https://www.nature.com/articles/s42256-022-00593-2?error=cookies_not_supported&code=eaba4a4d-0133-4a50-a483-ef6e5d82b620)** — *Nature Machine Intelligence 2023*
+- **[Human–AI collaboration enables more empathic conversations in text-based peer-to-peer mental health support](https://www.nature.com/articles/s42256-022-00593-2)** — *Nature Machine Intelligence 2023*
 
 - **[SemEval-2024 Task 3: Multimodal Emotion Cause Analysis in Conversations](https://aclanthology.org/2024.semeval-1.277/)** — *SemEval 2024*
 
@@ -595,7 +595,7 @@ No external papers are cited in the current draft’s Key Concepts or Problem Fo
 
 - **[A 3-D Audio-Visual Corpus of Affective Communication](http://ieeexplore.ieee.org/document/5571821/)** — *IEEE TMM 2010*
 
-- **[Multi-TPC: A Multimodal Dataset for Three-Party Conversations with Speech, Motion, and Gaze](https://www.nature.com/articles/s41597-026-06819-x?error=cookies_not_supported&code=c6158320-5ce0-40c0-a724-368309037118)** — *Scientific Data 2026*
+- **[Multi-TPC: A Multimodal Dataset for Three-Party Conversations with Speech, Motion, and Gaze](https://www.nature.com/articles/s41597-026-06819-x)** — *Scientific Data 2026*
 
 - **[Full-Duplex-Bench: A Benchmark to Evaluate Full-Duplex Spoken Dialogue Models on Turn-taking Capabilities](https://ieeexplore.ieee.org/document/11433838/)** — *ASRU 2025*
 
@@ -679,15 +679,15 @@ No external papers are cited in the current draft’s Key Concepts or Problem Fo
 
 - **[EAMM: One-Shot Emotional Talking Face via Audio-Based Emotion-Aware Motion Model](https://dl.acm.org/doi/10.1145/3528233.3530745)** — *SIGGRAPH 2022*
 
-- **[Realistic One-Shot Mesh-Based Head Avatars](https://link.springer.com/chapter/10.1007/978-3-031-20086-1_20?error=cookies_not_supported&code=48dd12a6-0f2b-4c4c-82db-f5cc2833e459)** — *ECCV 2022*
+- **[Realistic One-Shot Mesh-Based Head Avatars](https://link.springer.com/chapter/10.1007/978-3-031-20086-1_20)** — *ECCV 2022*
 
-- **[Learning to Generate Conditional Tri-Plane for 3D-Aware Expression Controllable Portrait Animation](https://link.springer.com/chapter/10.1007/978-3-031-73232-4_27?error=cookies_not_supported&code=979a8f79-4112-484f-80f7-984b4729cd46)** — *ECCV 2024*
+- **[Learning to Generate Conditional Tri-Plane for 3D-Aware Expression Controllable Portrait Animation](https://link.springer.com/chapter/10.1007/978-3-031-73232-4_27)** — *ECCV 2024*
 
 - **[FLOAT: Generative Motion Latent Flow Matching for Audio-driven Talking Portrait](https://openaccess.thecvf.com/content/ICCV2025/html/Ki_FLOAT_Generative_Motion_Latent_Flow_Matching_for_Audio-driven_Talking_Portrait_ICCV_2025_paper.html)** — *ICCV 2025*
 
 - **[All You Need Is Your Voice: Emotional Face Representation with Audio Perspective for Emotional Talking Face Generation](https://link.springer.com/chapter/10.1007/978-3-031-73039-9_20)** — *ECCV 2024*
 
-- **[TalkingGaussian: Structure-Persistent 3D Talking Head Synthesis via Gaussian Splatting](https://link.springer.com/chapter/10.1007/978-3-031-72684-2_8?error=cookies_not_supported&code=e7ba1cf6-7294-4516-b924-21956cd3aa66)** — *ECCV 2024*
+- **[TalkingGaussian: Structure-Persistent 3D Talking Head Synthesis via Gaussian Splatting](https://link.springer.com/chapter/10.1007/978-3-031-72684-2_8)** — *ECCV 2024*
 
 - **[Efficient Region-Aware Neural Radiance Fields for High-Fidelity Talking Portrait Synthesis](https://openaccess.thecvf.com/content/ICCV2023/html/Li_Efficient_Region-Aware_Neural_Radiance_Fields_for_High-Fidelity_Talking_Portrait_Synthesis_ICCV_2023_paper.html)** — *ICCV 2023*
 
@@ -707,7 +707,7 @@ No external papers are cited in the current draft’s Key Concepts or Problem Fo
 
 - **[A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild](https://dl.acm.org/doi/10.1145/3394171.3413532)** — *ACM MM 2020*
 
-- **[Comparing the value of perceived human versus AI-generated empathy](https://www.nature.com/articles/s41562-025-02247-w?error=cookies_not_supported&code=7f6ffce9-c8a7-4785-8494-578a32071e38)** — *Nature Human Behaviour 2025*
+- **[Comparing the value of perceived human versus AI-generated empathy](https://www.nature.com/articles/s41562-025-02247-w)** — *Nature Human Behaviour 2025*
 
 - **[First Order Motion Model for Image Animation](https://proceedings.neurips.cc/paper_files/paper/2019/hash/31c0b36aef265d9221af80872ceb62f9-Abstract.html)** — *NeurIPS 2019*
 
@@ -735,7 +735,7 @@ No external papers are cited in the current draft’s Key Concepts or Problem Fo
 
 - **[High-Fidelity Generalized Emotional Talking Face Generation With Multi-Modal Emotion Space Learning](https://openaccess.thecvf.com/content/CVPR2023/html/Xu_High-Fidelity_Generalized_Emotional_Talking_Face_Generation_With_Multi-Modal_Emotion_Space_CVPR_2023_paper.html)** — *CVPR 2023*
 
-- **[Audiodriven Talking Face Generation with Stabilized Synchronization Loss](https://link.springer.com/chapter/10.1007/978-3-031-72655-2_24)** — *ECCV 2024*
+- **[Audio-Driven Talking Face Generation with Stabilized Synchronization Loss](https://link.springer.com/chapter/10.1007/978-3-031-72655-2_24)** — *ECCV 2024*
 
 - **[SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_SadTalker_Learning_Realistic_3D_Motion_Coefficients_for_Stylized_Audio-Driven_Single_CVPR_2023_paper.html)** — *CVPR 2023*
 
@@ -787,9 +787,9 @@ No external papers are cited in the current draft’s Key Concepts or Problem Fo
 
 ### Ethical Risks
 
-- **[How human–AI feedback loops alter human perceptual, emotional and social judgements](https://www.nature.com/articles/s41562-024-02077-2?error=cookies_not_supported&code=811769ef-af41-4907-82c3-3a0209a1cdac)** — *Nature Human Behaviour 2025*
+- **[How human–AI feedback loops alter human perceptual, emotional and social judgements](https://www.nature.com/articles/s41562-024-02077-2)** — *Nature Human Behaviour 2025*
 
-- **[Influencing human–AI interaction by priming beliefs about AI can increase perceived trustworthiness, empathy and effectiveness](https://www.nature.com/articles/s42256-023-00720-7?error=cookies_not_supported&code=13544f54-bcb0-46f2-818e-11439269a7c1)** — *Nature Machine Intelligence 2023*
+- **[Influencing human–AI interaction by priming beliefs about AI can increase perceived trustworthiness, empathy and effectiveness](https://www.nature.com/articles/s42256-023-00720-7)** — *Nature Machine Intelligence 2023*
 
 - **[FaceForensics++: Learning to Detect Manipulated Facial Images](https://openaccess.thecvf.com/content_ICCV_2019/html/Rossler_FaceForensics_Learning_to_Detect_Manipulated_Facial_Images_ICCV_2019_paper.html)** — *ICCV 2019*
 
